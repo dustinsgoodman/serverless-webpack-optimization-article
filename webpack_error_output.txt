@@ -1,0 +1,37 @@
+> serverless deploy -s dev
+  Serverless Plugin Error --------------------------------------
+  Cannot convert undefined or null to object
+Serverless: WarmUp: setting 2 lambdas to be warm
+Serverless: WarmUp: user-api-dev-**************
+Serverless: WarmUp: user-api-dev-**************
+Serverless: Bundling with Webpack...
+<--- Last few GCs --->
+[438:0x39908e0]   149226 ms: Mark-sweep 1768.9 (2060.1) -> 1768.9 (2045.9) MB, 571.1 / 0.0 ms  (average mu = 0.168, current mu = 0.000) allocation failure GC in old space requested
+[438:0x39908e0]   150360 ms: Mark-sweep 1795.9 (2072.9) -> 1753.4 (2060.1) MB, 972.4 / 0.0 ms  (average mu = 0.153, current mu = 0.143) allocation failure GC in old space requested
+
+
+<--- JS stacktrace --->
+==== JS stack trace =========================================
+Security context: 0x252cb49c08d1 <JSObject>
+    0: builtin exit frame: byteLengthUtf8(this=0x3cd5629027d9 <JSGlobal Object>,0x3d6db8a47fd1 <Very long string[14117744]>,0x3cd5629027d9 <JSGlobal Object>)
+    1: byteLength [0x3cd5629179a1] [buffer.js:738] [bytecode=0x39ba43c96841 offset=126](this=0x3cd562915411 <JSFunction Buffer (sfi = 0x360655a278c1)>,0x3d6db8a47fd1 <Very long string[14117744]>,0x137b513004b1 <undefined>)
+    2: arguments...
+FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+ 1: 0x9ef9b0 node::Abort() [serverless]
+ 2: 0x9402d5 node::FatalError(char const*, char const*) [serverless]
+ 3: 0xb1548e v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, bool) [serverless]
+ 4: 0xb15807 v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, bool) [serverless]
+ 5: 0xca9ec5  [serverless]
+ 6: 0xcaa85f v8::internal::Heap::RecomputeLimits(v8::internal::GarbageCollector) [serverless]
+ 7: 0xcb5f2b v8::internal::Heap::PerformGarbageCollection(v8::internal::GarbageCollector, v8::GCCallbackFlags) [serverless]
+ 8: 0xcb6db7 v8::internal::Heap::CollectGarbage(v8::internal::AllocationSpace, v8::internal::GarbageCollectionReason, v8::GCCallbackFlags) [serverless]
+ 9: 0xcb966c v8::internal::Heap::AllocateRawWithRetryOrFail(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [serverless]
+10: 0xc87a65 v8::internal::Factory::NewRawTwoByteString(int, v8::internal::AllocationType) [serverless]
+11: 0xeb5a6d v8::internal::String::SlowFlatten(v8::internal::Isolate*, v8::internal::Handle<v8::internal::ConsString>, v8::internal::AllocationType) [serverless]
+12: 0xb28079 v8::String::Utf8Length(v8::Isolate*) const [serverless]
+13: 0x9c8c1a  [serverless]
+14: 0xb7a9f3  [serverless]
+15: 0xb7bf86  [serverless]
+16: 0xb7c606 v8::internal::Builtin_HandleApiCall(int, unsigned long*, v8::internal::Isolate*) [serverless]
+17: 0x12f7779  [serverless]
+Received "aborted" signal

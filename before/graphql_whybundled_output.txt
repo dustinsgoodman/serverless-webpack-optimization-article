@@ -1,0 +1,4127 @@
+⸨░░░░░░░░░░░░░░░░░░░░⸩ 1% • info processing: lodash⸨░░░░░░░░░░░░░░░░░░░░⸩ 2% • info processing: external "util"⸨░░░░░░░░░░░░░░░░░░░░⸩ 2% • info processing: graphql⸨ ░░░░░░░░░░░░░░░░░░░⸩ 3% • info processing: twilio⸨ ░░░░░░░░░░░░░░░░░░░⸩ 3% • info processing: q⸨ ░░░░░░░░░░░░░░░░░░░⸩ 4% • info processing: apollo-server-lambda⸨ ░░░░░░░░░░░░░░░░░░░⸩ 4% • info processing: mongodb⸨ ░░░░░░░░░░░░░░░░░░░⸩ 5% • info processing: source-map-support⸨ ░░░░░░░░░░░░░░░░░░░⸩ 6% • info processing: external "stream"⸨ ░░░░░░░░░░░░░░░░░░░⸩ 6% • info processing: @babel/runtime⸨ ░░░░░░░░░░░░░░░░░░░⸩ 7% • info processing: external "crypto"⸨ ░░░░░░░░░░░░░░░░░░░⸩ 7% • info processing: external "events"⸨  ░░░░░░░░░░░░░░░░░░⸩ 8% • info processing: safe-buffer⸨  ░░░░░░░░░░░░░░░░░░⸩ 8% • info processing: xmlbuilder⸨  ░░░░░░░░░░░░░░░░░░⸩ 9% • info processing: external "url"⸨  ░░░░░░░░░░░░░░░░░░⸩ 10% • info processing: external "fs"⸨  ░░░░░░░░░░░░░░░░░░⸩ 10% • info processing: http-errors⸨  ░░░░░░░░░░░░░░░░░░⸩ 11% • info processing: axios⸨  ░░░░░░░░░░░░░░░░░░⸩ 11% • info processing: es-abstract⸨  ░░░░░░░░░░░░░░░░░░⸩ 12% • info processing: external "zlib"⸨  ░░░░░░░░░░░░░░░░░░⸩ 12% • info processing: moment⸨   ░░░░░░░░░░░░░░░░░⸩ 13% • info processing: inherits⸨   ░░░░░░░░░░░░░░░░░⸩ 14% • info processing: external "assert"⸨   ░░░░░░░░░░░░░░░░░⸩ 14% • info processing: external "http"⸨   ░░░░░░░░░░░░░░░░░⸩ 15% • info processing: core-js⸨   ░░░░░░░░░░░░░░░░░⸩ 15% • info processing: external "aws-sdk"⸨   ░░░░░░░░░░░░░░░░░⸩ 16% • info processing: iterall⸨   ░░░░░░░░░░░░░░░░░⸩ 16% • info processing: aws-lambda-graphql⸨   ░░░░░░░░░░░░░░░░░⸩ 17% • info processing: graphql-tools⸨    ░░░░░░░░░░░░░░░░⸩ 18% • info processing: external "https"⸨    ░░░░░░░░░░░░░░░░⸩ 18% • info processing: apollo-server-env⸨    ░░░░░░░░░░░░░░░░⸩ 19% • info processing: external "path"⸨    ░░░░░░░░░░░░░░░░⸩ 19% • info processing: external "os"⸨    ░░░░░░░░░░░░░░░░⸩ 20% • info processing: @apollo/protobufjs⸨    ░░░░░░░░░░░░░░░░⸩ 20% • info processing: bson⸨    ░░░░░░░░░░░░░░░░⸩ 21% • info processing: sha.js⸨    ░░░░░░░░░░░░░░░░⸩ 22% • info processing: external "buffer"⸨    ░░░░░░░░░░░░░░░░⸩ 22% • info processing: busboy⸨     ░░░░░░░░░░░░░░░⸩ 23% • info processing: readable-stream⸨     ░░░░░░░░░░░░░░░⸩ 23% • info processing: @bugsnag/js⸨     ░░░░░░░░░░░░░░░⸩ 24% • info processing: (webpack)/buildin/module.js⸨     ░░░░░░░░░░░░░░░⸩ 24% • info processing: source-map⸨     ░░░░░░░░░░░░░░░⸩ 25% • info processing: apollo-server-core⸨     ░░░░░░░░░░░░░░░⸩ 26% • info processing: function-bind⸨     ░░░░░░░░░░░░░░░⸩ 26% • info processing: ws⸨     ░░░░░░░░░░░░░░░⸩ 27% • info processing: core-util-is⸨     ░░░░░░░░░░░░░░░⸩ 27% • info processing: has-symbols⸨      ░░░░░░░░░░░░░░⸩ 28% • info processing: has⸨      ░░░░░░░░░░░░░░⸩ 29% • info processing: apollo-server-errors⸨      ░░░░░░░░░░░░░░⸩ 29% • info processing: external "net"⸨      ░░░░░░░░░░░░░░⸩ 30% • info processing: apollo-env⸨      ░░░░░░░░░░░░░░⸩ 30% • info processing: apollo-engine-reporting-protobuf⸨      ░░░░░░░░░░░░░░⸩ 31% • info processing: subscriptions-transport-ws⸨      ░░░░░░░░░░░░░░⸩ 31% • info processing: external "dns"⸨      ░░░░░░░░░░░░░░⸩ 32% • info processing: process-nextick-args⸨      ░░░░░░░░░░░░░░⸩ 32% • info processing: jsonwebtoken⸨       ░░░░░░░░░░░░░⸩ 33% • info processing: maxmind⸨       ░░░░░░░░░░░░░⸩ 34% • info processing: moment-timezone⸨       ░░░░░░░░░░░░░⸩ 34% • info processing: otplib⸨       ░░░░░░░░░░░░░⸩ 35% • info processing: define-properties⸨       ░░░░░░░░░░░░░⸩ 35% • info processing: apollo-server-caching⸨       ░░░░░░░░░░░░░⸩ 36% • info processing: external "tls"⸨       ░░░░░░░░░░░░░⸩ 36% • info processing: apollo-engine-reporting⸨       ░░░░░░░░░░░░░⸩ 37% • info processing: cssfilter⸨        ░░░░░░░░░░░░⸩ 38% • info processing: xss⸨        ░░░░░░░░░░░░⸩ 38% • info processing: require_optional⸨        ░░░░░░░░░░░░⸩ 39% • info processing: require_optional sync⸨        ░░░░░░░░░░░░⸩ 39% • info processing: external "querystring"⸨        ░░░░░░░░░░░░⸩ 40% • info processing: denque⸨        ░░░░░░░░░░░░⸩ 40% • info processing: jws⸨        ░░░░░░░░░░░░⸩ 41% • info processing: qs⸨        ░░░░░░░░░░░░⸩ 42% • info processing: graphql-upload⸨        ░░░░░░░░░░░░⸩ 42% • info processing: fast-json-stable-stringify⸨         ░░░░░░░░░░░⸩ 43% • info processing: ulid⸨         ░░░░░░░░░░░⸩ 43% • info processing: locutus⸨         ░░░░░░░░░░░⸩ 44% • info processing: twin-bcrypt⸨         ░░░░░░░░░░░⸩ 44% • info processing: object-keys⸨         ░░░░░░░░░░░⸩ 45% • info processing: util.promisify⸨         ░░░░░░░░░░░⸩ 46% • info processing: object.getownpropertydescriptors⸨         ░░░░░░░░░░░⸩ 46% • info processing: node-fetch⸨         ░░░░░░░░░░░⸩ 47% • info processing: graphql-extensions⸨         ░░░░░░░░░░░⸩ 47% • info processing: apollo-server-types⸨          ░░░░░░░░░░⸩ 48% • info processing: uuid⸨          ░░░░░░░░░░⸩ 48% • info processing: @apollographql/apollo-tools⸨          ░░░░░░░░░░⸩ 49% • info processing: apollo-graphql⸨          ░░░░░░░░░░⸩ 50% • info processing: streamsearch⸨          ░░░░░░░░░░⸩ 50% • info processing: depd⸨          ░░░░░░░░░░⸩ 51% • info processing: semver⸨          ░░░░░░░░░░⸩ 51% • info processing: string_decoder⸨          ░░░░░░░░░░⸩ 52% • info processing: stackframe⸨          ░░░░░░░░░░⸩ 52% • info processing: external "domain"⸨           ░░░░░░░░░⸩ 53% • info processing: once⸨           ░░░░░░░░░⸩ 54% • info processing: jwa⸨           ░░░░░░░░░⸩ 54% • info processing: ms⸨           ░░░░░░░░░⸩ 55% • info processing: follow-redirects⸨           ░░░░░░░░░⸩ 55% • info processing: debug⸨           ░░░░░░░░░⸩ 56% • info processing: external "tty"⸨           ░░░░░░░░░⸩ 57% • info processing: supports-color⸨           ░░░░░░░░░⸩ 57% • info processing: pop-iterate⸨            ░░░░░░░░⸩ 58% • info processing: dayjs⸨            ░░░░░░░░⸩ 58% • info processing: graphql-subscriptions⸨            ░░░░░░░░⸩ 59% • info processing: apollo-link⸨            ░░░░░░░░⸩ 59% • info processing: zen-observable⸨            ░░░░░░░░⸩ 60% • info processing: object-path⸨            ░░░░░░░░⸩ 60% • info processing: symbol-observable⸨            ░░░░░░░░⸩ 61% • info processing: buffer-from⸨            ░░░░░░░░⸩ 62% • info processing: is-regex⸨            ░░░░░░░░⸩ 62% • info processing: is-callable⸨             ░░░░░░░⸩ 63% • info processing: lru-cache⸨             ░░░░░░░⸩ 63% • info processing: yallist⸨             ░░░░░░░⸩ 64% • info processing: deprecated-decorator⸨             ░░░░░░░⸩ 64% • info processing: loglevel⸨             ░░░░░░░⸩ 65% • info processing: apollo-tracing⸨             ░░░░░░░⸩ 66% • info processing: apollo-cache-control⸨             ░░░░░░░⸩ 66% • info processing: @protobufjs/aspromise⸨             ░░░░░░░⸩ 67% • info processing: @protobufjs/base64⸨             ░░░░░░░⸩ 67% • info processing: @protobufjs/eventemitter⸨              ░░░░░░⸩ 68% • info processing: @protobufjs/float⸨              ░░░░░░⸩ 68% • info processing: @protobufjs/inquire⸨              ░░░░░░⸩ 69% • info processing: @protobufjs/utf8⸨              ░░░░░░⸩ 70% • info processing: @protobufjs/pool⸨              ░░░░░░⸩ 70% • info processing: async-retry⸨              ░░░░░░⸩ 71% • info processing: retry⸨              ░░░░░░⸩ 71% • info processing: lodash.sortby⸨              ░░░░░░⸩ 72% • info processing: dicer⸨              ░░░░░░⸩ 72% • info processing: setprototypeof⸨               ░░░░░⸩ 73% • info processing: statuses⸨               ░░░░░⸩ 74% • info processing: toidentifier⸨               ░░░░░⸩ 74% • info processing: backo2⸨               ░░░░░⸩ 75% • info processing: eventemitter3⸨               ░░░░░⸩ 75% • info processing: (webpack)/buildin/harmony-module.js⸨               ░░░░░⸩ 76% • info processing: async-limiter⸨               ░░░░░⸩ 76% • info processing: graphql-tag⸨               ░░░░░⸩ 77% • info processing: @apollographql/graphql-playground-html⸨                ░░░░⸩ 78% • info processing: resolve-from⸨                ░░░░⸩ 78% • info processing: external "module"⸨                ░░░░⸩ 79% • info processing: saslprep⸨                ░░░░⸩ 79% • info processing: sparse-bitfield⸨                ░░░░⸩ 80% • info processing: memory-pager⸨                ░░░░⸩ 80% • info processing: aws4⸨                ░░░░⸩ 81% • info processing: bl⸨                ░░░░⸩ 82% • info processing: isarray⸨                ░░░░⸩ 82% • info processing: util-deprecate⸨                 ░░░⸩ 83% • info processing: @bugsnag/node⸨                 ░░░⸩ 83% • info processing: error-stack-parser⸨                 ░░░⸩ 84% • info processing: iserror⸨                 ░░░⸩ 84% • info processing: stack-generator⸨                 ░░░⸩ 85% • info processing: pump⸨                 ░░░⸩ 86% • info processing: wrappy⸨                 ░░░⸩ 86% • info processing: end-of-stream⸨                 ░░░⸩ 87% • info processing: byline⸨                 ░░░⸩ 87% • info processing: external "timers"⸨                  ░░⸩ 88% • info processing: buffer-equal-constant-time⸨                  ░░⸩ 88% • info processing: ecdsa-sig-formatter⸨                  ░░⸩ 89% • info processing: lodash.includes⸨                  ░░⸩ 90% • info processing: lodash.isboolean⸨                  ░░⸩ 90% • info processing: lodash.isinteger⸨                  ░░⸩ 91% • info processing: lodash.isnumber⸨                  ░░⸩ 91% • info processing: lodash.isplainobject⸨                  ░░⸩ 92% • info processing: lodash.isstring⸨                  ░░⸩ 92% • info processing: lodash.once⸨                   ░⸩ 93% • info processing: @otplib/preset-default⸨                   ░⸩ 94% • info processing: @otplib/plugin-crypto⸨                   ░⸩ 94% • info processing: @otplib/plugin-thirty-two⸨                   ░⸩ 95% • info processing: thirty-two⸨                   ░⸩ 95% • info processing: @otplib/core⸨                   ░⸩ 96% • info processing: has-flag⸨                   ░⸩ 96% • info processing: tiny-lru⸨                   ░⸩ 97% • info processing: weak-map⸨                    ⸩ 98% • info processing: asap⸨                    ⸩ 98% • info processing: scmp⸨                    ⸩ 99% • info processing: url-parse⸨                    ⸩ 99% • info processing: requires-port⸨                    ⸩ 100% • info processing: querystringify⸨                    ⸩ 100% • info processing: ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules
+ MODULE  lodash
+├─ imported: 464 times
+├─ deps count: 0
+├─ size: 530 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash/lodash.js
+│  
+└─ reasons:
+   ├─ twilio
+   │  └─ ./node_modules/twilio/lib/rest/api/v2010/account/application.js  13:8-25  [cjs require]
+   └─ ... 444 more
+   
+––––––––––––––––––––
+
+
+ FILE  external "util"
+├─ imported: 428 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/inherits/inherits.js
+   ├─ ./node_modules/mongodb/lib/core/connection/logger.js
+   ├─ ./node_modules/mongodb/lib/cursor.js
+   ├─ ./node_modules/mongodb/lib/topologies/topology_base.js
+   ├─ ./node_modules/mongodb/lib/collection.js
+   ├─ ./node_modules/bson/lib/bson/objectid.js
+   ├─ ./node_modules/bson/lib/bson/symbol.js
+   ├─ ./node_modules/mongodb/lib/mongo_client.js
+   ├─ ./node_modules/mongodb/lib/db.js
+   ├─ ./node_modules/require_optional/index.js
+   ├─ ./node_modules/mongodb/lib/core/topologies/server.js
+   ├─ ./node_modules/mongodb/lib/aggregation_cursor.js
+   ├─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules
+   ├─ ./node_modules/util.promisify/polyfill.js
+   ├─ ./node_modules/streamsearch/lib/sbmh.js
+   ├─ ./node_modules/readable-stream/lib/_stream_readable.js
+   └─ ... 408 more
+   
+––––––––––––––––––––
+
+
+ MODULE  q
+├─ imported: 356 times
+├─ deps count: 3
+├─ size: 54 KiB [for all included files]
+├─ type: [transitive]
+│  └─ q -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/q/
+│  
+├─ files: 
+│  └─ ./node_modules/q/q.js
+│  
+└─ reasons:
+   ├─ twilio
+   │  └─ ./node_modules/twilio/lib/rest/api/v2010/account/call/feedbackSummary.js  12:8-20  [cjs require]
+   └─ ... 336 more
+   
+––––––––––––––––––––
+
+
+ MODULE  graphql
+├─ imported: 222 times
+├─ deps count: 0
+├─ size: 525 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/graphql/
+│  
+├─ files: 
+│  ├─ ./node_modules/graphql/type/definition.mjs + 1 modules
+│  ├─ ./node_modules/graphql/language/kinds.mjs
+│  ├─ ./node_modules/graphql/error/GraphQLError.mjs
+│  ├─ ./node_modules/graphql/jsutils/inspect.mjs
+│  ├─ ./node_modules/graphql/language/tokenKind.mjs
+│  ├─ ./node_modules/graphql/index.mjs + 4 modules
+│  ├─ ./node_modules/graphql/type/introspection.mjs
+│  ├─ ./node_modules/graphql/jsutils/devAssert.mjs
+│  ├─ ./node_modules/graphql/language/directiveLocation.mjs
+│  ├─ ./node_modules/graphql/type/scalars.mjs + 1 modules
+│  ├─ ./node_modules/graphql/type/directives.mjs
+│  ├─ ./node_modules/graphql/language/printer.mjs
+│  ├─ ./node_modules/graphql/polyfills/objectValues.mjs
+│  ├─ ./node_modules/graphql/jsutils/invariant.mjs
+│  ├─ ./node_modules/graphql/language/ast.mjs
+│  ├─ ./node_modules/graphql/language/visitor.mjs
+│  ├─ ./node_modules/graphql/polyfills/symbols.mjs
+│  ├─ ./node_modules/graphql/language/predicates.mjs
+│  ├─ ./node_modules/graphql/jsutils/isObjectLike.mjs
+│  ├─ ./node_modules/graphql/utilities/typeFromAST.mjs
+│  └─ ... 98 more
+│  
+└─ reasons:
+   ├─ graphql-upload
+   │  ├─ ./node_modules/graphql-upload/lib/GraphQLUpload.mjs  2:33-50  [harmony import specifier]
+   │  └─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules  1:0-43  [harmony side effect evaluation]
+   ├─ graphql-scalars
+   │  └─ ./node_modules/graphql-scalars/index.esm.js  1014:37-54  [harmony import specifier]
+   └─ ... 93 more
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-server-lambda
+├─ imported: 188 times
+├─ deps count: 7
+├─ size: 14 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-server-lambda/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-server-lambda/dist/index.js
+│  ├─ ./node_modules/apollo-server-lambda/dist/ApolloServer.js
+│  └─ ./node_modules/apollo-server-lambda/dist/lambdaApollo.js
+│  
+└─ reasons:
+   ├─ aws-lambda-graphql
+   │  └─ ./node_modules/aws-lambda-graphql/dist/Server.js  18:31-62  [cjs require]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  2:0-72  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  2:0-56  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  2:0-43  [harmony side effect evaluation]
+   └─ ... 168 more
+   
+––––––––––––––––––––
+
+
+ MODULE  source-map-support
+├─ imported: 100 times
+├─ deps count: 2
+├─ size: 20 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/source-map-support/
+│  
+├─ files: 
+│  ├─ ./node_modules/source-map-support/register.js
+│  └─ ./node_modules/source-map-support/source-map-support.js
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  1:0-37  [harmony side effect evaluation]
+   └─ ... 80 more
+   
+––––––––––––––––––––
+
+
+ FILE  external "stream"
+├─ imported: 34 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/cursor.js
+   ├─ ./node_modules/mongodb/lib/cursor.js
+   ├─ ./node_modules/node-fetch/lib/index.mjs
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/receiver.js
+   ├─ ./node_modules/readable-stream/lib/internal/streams/stream.js
+   ├─ ./node_modules/jws/lib/data-stream.js
+   ├─ ./node_modules/axios/node_modules/follow-redirects/index.js
+   ├─ ./node_modules/follow-redirects/index.js
+   └─ ... 14 more
+   
+––––––––––––––––––––
+
+
+ MODULE  @babel/runtime
+├─ imported: 32 times
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@babel/runtime/
+│  
+├─ files: 
+│  └─ ./node_modules/@babel/runtime/helpers/defineProperty.js
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  1:0-68  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  15:0-15  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  26:0-15  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  31:0-15  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  39:0-15  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  44:0-15  [harmony import specifier]
+   └─ ... 12 more
+   
+––––––––––––––––––––
+
+
+ FILE  external "crypto"
+├─ imported: 30 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/utils.js
+   ├─ ./node_modules/mongodb/lib/core/auth/scram.js
+   ├─ ./node_modules/apollo-server-core/dist/utils/createSHA.js
+   ├─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules
+   ├─ ./node_modules/ulid/dist/index.esm.js
+   ├─ ./node_modules/locutus/php/strings/md5.js
+   ├─ ./node_modules/twin-bcrypt/twin-bcrypt.min.js
+   ├─ ./node_modules/graphql-tools/node_modules/uuid/lib/rng.js
+   ├─ ./node_modules/apollo-engine-reporting/dist/agent.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/sender.js
+   ├─ ./node_modules/mongodb/lib/core/connection/connection.js
+   ├─ ./node_modules/mongodb/lib/core/auth/mongocr.js
+   ├─ ./node_modules/mongodb/lib/operations/add_user.js
+   ├─ ./node_modules/jwa/index.js
+   ├─ ./node_modules/apollo-env/lib/utils/createHash.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket-server.js
+   ├─ ./node_modules/mongodb/lib/core/auth/mongodb_aws.js
+   ├─ ./node_modules/aws4/aws4.js
+   └─ ... 10 more
+   
+––––––––––––––––––––
+
+
+ FILE  external "events"
+├─ imported: 27 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/sessions.js
+   ├─ ./node_modules/mongodb/lib/topologies/topology_base.js
+   ├─ ./node_modules/mongodb/lib/mongo_client.js
+   ├─ ./node_modules/mongodb/lib/db.js
+   ├─ ./node_modules/mongodb/lib/core/topologies/server.js
+   ├─ ./node_modules/mongodb/lib/change_stream.js
+   ├─ ./node_modules/streamsearch/lib/sbmh.js
+   ├─ ./node_modules/depd/lib/compat/index.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js
+   ├─ ./node_modules/mongodb/lib/core/connection/connection.js
+   ├─ ./node_modules/mongodb/lib/cmap/connection.js
+   ├─ ./node_modules/readable-stream/lib/_stream_readable.js
+   ├─ ./node_modules/dicer/lib/HeaderParser.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket-server.js
+   ├─ ./node_modules/mongodb/lib/core/connection/pool.js
+   ├─ ./node_modules/mongodb/lib/core/topologies/replset.js
+   ├─ ./node_modules/mongodb/lib/core/topologies/replset_state.js
+   ├─ ./node_modules/mongodb/lib/core/topologies/mongos.js
+   ├─ ./node_modules/mongodb/lib/core/sdam/topology.js
+   ├─ ./node_modules/mongodb/lib/core/sdam/server.js
+   └─ ... 7 more
+   
+––––––––––––––––––––
+
+
+ MODULE  safe-buffer
+├─ imported: 26 times
+├─ deps count: 0
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ safe-buffer -> mongodb
+│  ├─ safe-buffer -> sha.js -> apollo-server-core -> apollo-server-lambda
+│  ├─ safe-buffer -> sha.js -> apollo-env -> @apollographql/apollo-tools -> apollo-server-core -> apollo-server-lambda
+│  ├─ safe-buffer -> sha.js -> apollo-env -> apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ safe-buffer -> jws -> jsonwebtoken
+│  ├─ safe-buffer -> jwa -> jws -> jsonwebtoken
+│  ├─ safe-buffer -> bl -> mongodb
+│  ├─ safe-buffer -> ecdsa-sig-formatter -> jwa -> jws -> jsonwebtoken
+│  ├─ safe-buffer -> readable-stream -> bl -> mongodb
+│  └─ safe-buffer -> string_decoder -> readable-stream -> bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations:  multiple 
+│  ├─ ./node_modules/safe-buffer/
+│  └─ ./node_modules/readable-stream/node_modules/safe-buffer/
+│  
+├─ files: 
+│  ├─ ./node_modules/safe-buffer/index.js
+│  └─ ./node_modules/readable-stream/node_modules/safe-buffer/index.js
+│  
+└─ reasons:
+   ├─ mongodb
+   │  └─ ./node_modules/mongodb/lib/gridfs-stream/upload.js  7:13-35  [cjs require]
+   ├─ sha.js
+   │  └─ ./node_modules/sha.js/sha384.js  4:13-35  [cjs require]
+   ├─ jws
+   │  └─ ./node_modules/jws/lib/sign-stream.js  2:13-35  [cjs require]
+   ├─ jwa
+   │  └─ ./node_modules/jwa/index.js  2:13-35  [cjs require]
+   ├─ bl
+   │  └─ ./node_modules/mongodb/node_modules/bl/bl.js  4:19-41  [cjs require]
+   └─ ... 6 more
+   
+––––––––––––––––––––
+
+
+ FILE  external "url"
+├─ imported: 19 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/node-fetch/lib/index.mjs
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js
+   ├─ ./node_modules/axios/node_modules/follow-redirects/index.js
+   ├─ ./node_modules/follow-redirects/index.js
+   ├─ ./node_modules/apollo-server-env/dist/polyfills/url.js
+   ├─ ./node_modules/apollo-env/lib/fetch/url.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket-server.js
+   ├─ ./node_modules/mongodb/lib/core/auth/mongodb_aws.js
+   ├─ ./node_modules/aws4/aws4.js
+   ├─ ./node_modules/mongodb/lib/core/uri_parser.js
+   ├─ ./node_modules/mongodb/lib/url_parser.js
+   ├─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+   ├─ ./node_modules/axios/lib/adapters/http.js
+   ├─ ./node_modules/twilio/lib/rest/Twilio.js
+   ├─ ./node_modules/twilio/node_modules/axios/lib/adapters/http.js
+   └─ ./node_modules/twilio/lib/webhooks/webhooks.js
+   
+––––––––––––––––––––
+
+
+ FILE  external "fs"
+├─ imported: 19 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/require_optional/index.js
+   ├─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules
+   ├─ ./node_modules/mongodb/lib/operations/connect.js
+   ├─ ./node_modules/busboy/lib/main.js
+   ├─ ./node_modules/source-map-support/source-map-support.js
+   ├─ ./node_modules/saslprep/lib/memory-code-points.js
+   ├─ ./node_modules/mongodb/lib/gridfs/grid_store.js
+   ├─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+   ├─ ./node_modules/pump/index.js
+   ├─ ./node_modules/maxmind/lib/fs.js
+   └─ ./node_modules/twilio/lib/base/RequestClient.js
+   
+––––––––––––––––––––
+
+
+ MODULE  http-errors
+├─ imported: 18 times
+├─ deps count: 5
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ http-errors -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/http-errors/
+│  
+├─ files: 
+│  └─ ./node_modules/http-errors/index.js
+│  
+└─ reasons:
+   └─ graphql-upload
+      └─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules  276:24-35  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ FILE  external "zlib"
+├─ imported: 13 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/wireprotocol/compression.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/permessage-deflate.js
+   ├─ ./node_modules/node-fetch/lib/index.mjs
+   ├─ ./node_modules/apollo-engine-reporting/dist/agent.js
+   ├─ ./node_modules/axios/lib/adapters/http.js
+   └─ ./node_modules/twilio/node_modules/axios/lib/adapters/http.js
+   
+––––––––––––––––––––
+
+
+ MODULE  moment
+├─ imported: 13 times
+├─ deps count: 0
+├─ size: 170 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/moment/
+│  
+├─ files: 
+│  └─ ./node_modules/moment/moment.js
+│  
+└─ reasons:
+   ├─ moment-timezone
+   │  └─ ./node_modules/moment-timezone/moment-timezone.js  14:2-29  [amd require]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-28  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  52:11-17  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  65:20-26  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  66:11-17  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  79:20-26  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  80:11-17  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  106:20-26  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  107:11-17  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  138:17-23  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  150:11-17  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  197:19-25  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  inherits
+├─ imported: 12 times
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ inherits -> http-errors -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  ├─ inherits -> readable-stream -> bl -> mongodb
+│  ├─ inherits -> sha.js -> apollo-server-core -> apollo-server-lambda
+│  ├─ inherits -> sha.js -> apollo-env -> @apollographql/apollo-tools -> apollo-server-core -> apollo-server-lambda
+│  └─ inherits -> sha.js -> apollo-env -> apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/inherits/
+│  
+├─ files: 
+│  ├─ ./node_modules/inherits/inherits.js
+│  └─ ./node_modules/inherits/inherits_browser.js
+│  
+└─ reasons:
+   ├─ http-errors
+   │  └─ ./node_modules/http-errors/index.js  18:15-34  [cjs require]
+   ├─ readable-stream
+   │  └─ ./node_modules/readable-stream/lib/_stream_passthrough.js  34:16-35  [cjs require]
+   └─ sha.js
+      └─ ./node_modules/sha.js/sha384.js  1:15-34  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "assert"
+├─ imported: 12 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/axios/node_modules/follow-redirects/index.js
+   ├─ ./node_modules/maxmind/lib/decoder.js
+   ├─ ./node_modules/follow-redirects/index.js
+   ├─ ./node_modules/maxmind/lib/index.js
+   ├─ ./node_modules/maxmind/lib/metadata.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBConnectionManager.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBEventStore.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBSubscriptionManager.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/RedisConnectionManager.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/RedisSubscriptionManager.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/PubSub.js
+   └─ ./node_modules/aws-lambda-graphql/dist/Server.js
+   
+––––––––––––––––––––
+
+
+ FILE  external "http"
+├─ imported: 12 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/node-fetch/lib/index.mjs
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js
+   ├─ ./node_modules/axios/node_modules/follow-redirects/index.js
+   ├─ ./node_modules/follow-redirects/index.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket-server.js
+   ├─ ./node_modules/mongodb/lib/core/auth/mongodb_aws.js
+   ├─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+   ├─ ./node_modules/axios/lib/adapters/http.js
+   ├─ ./node_modules/twilio/lib/base/RequestClient.js
+   └─ ./node_modules/twilio/node_modules/axios/lib/adapters/http.js
+   
+––––––––––––––––––––
+
+
+ FILE  external "aws-sdk"
+├─ imported: 11 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBConnectionManager.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBEventProcessor.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBEventStore.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBSubscriptionManager.js
+   ├─ ./node_modules/aws-lambda-graphql/dist/RedisConnectionManager.js
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  2:0-26  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  8:26-29  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  11:2-5  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  14:26-29  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  16:15-18  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  iterall
+├─ imported: 10 times
+├─ deps count: 0
+├─ size: 26 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ iterall -> aws-lambda-graphql
+│  ├─ iterall -> graphql-tools -> apollo-server-lambda
+│  ├─ iterall -> graphql-tools -> apollo-server-core -> apollo-server-lambda
+│  ├─ iterall -> subscriptions-transport-ws -> apollo-server-core -> apollo-server-lambda
+│  └─ iterall -> graphql-subscriptions -> aws-lambda-graphql
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/iterall/
+│  
+├─ files: 
+│  └─ ./node_modules/iterall/index.mjs
+│  
+└─ reasons:
+   ├─ aws-lambda-graphql
+   │  └─ ./node_modules/aws-lambda-graphql/dist/withFilter.js  4:18-36  [cjs require]
+   ├─ graphql-tools
+   │  └─ ./node_modules/graphql-tools/dist/stitching/mapAsyncIterator.js  2:16-34  [cjs require]
+   ├─ subscriptions-transport-ws
+   │  └─ ./node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js  3:16-34  [cjs require]
+   └─ graphql-subscriptions
+      └─ ./node_modules/graphql-subscriptions/dist/with-filter.js  3:16-34  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  aws-lambda-graphql
+├─ imported: 10 times
+├─ deps count: 8
+├─ size: 70 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/aws-lambda-graphql/
+│  
+├─ files: 
+│  ├─ ./node_modules/aws-lambda-graphql/dist/index.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/helpers/index.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/errors/index.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/protocol/index.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/execute.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/ArrayPubSub.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/helpers/isTTLExpired.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/formatMessage.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBConnectionManager.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/helpers/extractEndpointFromEvent.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/helpers/parseOperationFromEvent.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/helpers/computeTTL.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/helpers/prefixRedisKey.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBEventProcessor.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBEventStore.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/DynamoDBSubscriptionManager.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/RedisConnectionManager.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/RedisSubscriptionManager.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/types/index.js
+│  ├─ ./node_modules/aws-lambda-graphql/dist/types/aws.js
+│  └─ ... 8 more
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-152  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-64  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  15:29-47  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  18:24-30  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  101:23-41  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  104:19-25  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  107:32-59  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  111:30-55  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  116:19-25  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  118:22-44  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ FILE  external "https"
+├─ imported: 9 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/node-fetch/lib/index.mjs
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js
+   ├─ ./node_modules/axios/node_modules/follow-redirects/index.js
+   ├─ ./node_modules/follow-redirects/index.js
+   ├─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+   ├─ ./node_modules/axios/lib/adapters/http.js
+   ├─ ./node_modules/twilio/lib/base/RequestClient.js
+   └─ ./node_modules/twilio/node_modules/axios/lib/adapters/http.js
+   
+––––––––––––––––––––
+
+
+ MODULE  mongodb
+├─ imported: 8 times
+├─ deps count: 20
+├─ size: 1249 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/mongodb/
+│  
+├─ files: 
+│  ├─ ./node_modules/mongodb/lib/utils.js
+│  ├─ ./node_modules/mongodb/lib/core/index.js
+│  ├─ ./node_modules/mongodb/lib/core/error.js
+│  ├─ ./node_modules/mongodb/lib/operations/operation.js
+│  ├─ ./node_modules/mongodb/lib/core/utils.js
+│  ├─ ./node_modules/mongodb/lib/core/wireprotocol/shared.js
+│  ├─ ./node_modules/mongodb/lib/core/topologies/shared.js
+│  ├─ ./node_modules/mongodb/lib/core/connection/utils.js
+│  ├─ ./node_modules/mongodb/lib/operations/common_functions.js
+│  ├─ ./node_modules/mongodb/lib/core/topologies/read_preference.js
+│  ├─ ./node_modules/mongodb/lib/operations/db_ops.js
+│  ├─ ./node_modules/mongodb/lib/core/sdam/common.js
+│  ├─ ./node_modules/mongodb/lib/core/connection/logger.js
+│  ├─ ./node_modules/mongodb/lib/core/cursor.js
+│  ├─ ./node_modules/mongodb/lib/core/connection/commands.js
+│  ├─ ./node_modules/mongodb/lib/operations/command.js
+│  ├─ ./node_modules/mongodb/lib/cursor.js
+│  ├─ ./node_modules/mongodb/lib/operations/command_v2.js
+│  ├─ ./node_modules/mongodb/index.js
+│  ├─ ./node_modules/mongodb/lib/core/wireprotocol/compression.js
+│  └─ ... 121 more
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-31  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-38  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  8:11-15  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  10:32-43  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  17:14-18  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  40:13-17  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  101:13-17  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-server-env
+├─ imported: 8 times
+├─ deps count: 2
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-server-env/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-server-env/dist/index.js
+│  ├─ ./node_modules/apollo-server-env/dist/polyfills/Object.values.js
+│  ├─ ./node_modules/apollo-server-env/dist/polyfills/Object.entries.js
+│  ├─ ./node_modules/apollo-server-env/dist/utils/runtimeSupportsPromisify.js
+│  ├─ ./node_modules/apollo-server-env/dist/polyfills/fetch.js
+│  └─ ./node_modules/apollo-server-env/dist/polyfills/url.js
+│  
+└─ reasons:
+   ├─ apollo-server-core
+   │  └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  41:28-56  [cjs require]
+   ├─ apollo-engine-reporting
+   │  └─ ./node_modules/apollo-engine-reporting/dist/schemaReporter.js  13:28-56  [cjs require]
+   └─ apollo-server-lambda
+      └─ ./node_modules/apollo-server-lambda/dist/lambdaApollo.js  5:28-56  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "path"
+├─ imported: 8 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/require_optional/index.js
+   ├─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules
+   ├─ ./node_modules/source-map-support/source-map-support.js
+   ├─ ./node_modules/depd/index.js
+   ├─ ./node_modules/require_optional/node_modules/resolve-from/index.js
+   ├─ ./node_modules/saslprep/lib/memory-code-points.js
+   └─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+   
+––––––––––––––––––––
+
+
+ FILE  external "os"
+├─ imported: 8 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/utils.js
+   ├─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules
+   ├─ ./node_modules/apollo-engine-reporting/dist/agent.js
+   ├─ ./node_modules/supports-color/index.js
+   └─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+   
+––––––––––––––––––––
+
+
+ MODULE  es-abstract
+├─ imported: 6 times
+├─ deps count: 12
+├─ size: 34 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations:  multiple 
+│  ├─ ./node_modules/es-abstract/
+│  └─ ./node_modules/util.promisify/node_modules/es-abstract/
+│  
+├─ files: 
+│  ├─ ./node_modules/es-abstract/GetIntrinsic.js
+│  ├─ ./node_modules/es-abstract/2019/Type.js
+│  ├─ ./node_modules/es-abstract/helpers/callBound.js
+│  ├─ ./node_modules/es-abstract/helpers/assertRecord.js
+│  ├─ ./node_modules/es-abstract/2019/IsPropertyKey.js
+│  ├─ ./node_modules/es-abstract/2019/ToBoolean.js
+│  ├─ ./node_modules/es-abstract/2019/IsCallable.js
+│  ├─ ./node_modules/es-abstract/2019/RequireObjectCoercible.js
+│  ├─ ./node_modules/util.promisify/node_modules/es-abstract/GetIntrinsic.js
+│  ├─ ./node_modules/es-abstract/2019/CreateDataProperty.js
+│  ├─ ./node_modules/es-abstract/helpers/DefineOwnProperty.js
+│  ├─ ./node_modules/es-abstract/helpers/callBind.js
+│  ├─ ./node_modules/es-abstract/2019/FromPropertyDescriptor.js
+│  ├─ ./node_modules/es-abstract/5/Type.js
+│  ├─ ./node_modules/es-abstract/2019/OrdinaryGetOwnProperty.js
+│  ├─ ./node_modules/es-abstract/helpers/getOwnPropertyDescriptor.js
+│  ├─ ./node_modules/es-abstract/2019/IsArray.js
+│  ├─ ./node_modules/es-abstract/2019/IsRegExp.js
+│  ├─ ./node_modules/es-abstract/2019/ToPropertyDescriptor.js
+│  ├─ ./node_modules/es-abstract/2019/IsDataDescriptor.js
+│  └─ ... 8 more
+│  
+└─ reasons:
+   ├─ object.getownpropertydescriptors
+   │  ├─ ./node_modules/object.getownpropertydescriptors/implementation.js  7:16-56  [cjs require]
+   │  ├─ ./node_modules/object.getownpropertydescriptors/implementation.js  4:17-55  [cjs require]
+   │  ├─ ./node_modules/object.getownpropertydescriptors/implementation.js  5:29-79  [cjs require]
+   │  ├─ ./node_modules/object.getownpropertydescriptors/implementation.js  3:25-71  [cjs require]
+   │  └─ ./node_modules/object.getownpropertydescriptors/implementation.js  6:15-51  [cjs require]
+   └─ util.promisify
+      └─ ./node_modules/util.promisify/implementation.js  18:16-56  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "buffer"
+├─ imported: 6 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/safe-buffer/index.js
+   ├─ ./node_modules/bson/lib/bson/binary.js
+   ├─ ./node_modules/readable-stream/node_modules/safe-buffer/index.js
+   ├─ ./node_modules/jws/lib/tostring.js
+   └─ ./node_modules/buffer-equal-constant-time/index.js
+   
+––––––––––––––––––––
+
+
+ MODULE  @bugsnag/js
+├─ imported: 6 times
+├─ deps count: 1
+├─ size: 1 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@bugsnag/js/
+│  
+├─ files: 
+│  └─ ./node_modules/@bugsnag/js/node/notifier.js
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-34  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  16:6-13  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  38:6-13  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  42:6-13  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  46:6-13  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  49:4-11  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ FILE  (webpack)/buildin/module.js
+├─ imported: 5 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/lodash/lodash.js
+   ├─ ./node_modules/moment/moment.js
+   ├─ ./node_modules/require_optional/index.js
+   ├─ ./node_modules/source-map-support/source-map-support.js
+   └─ ./node_modules/lodash.sortby/index.js
+   
+––––––––––––––––––––
+
+
+ MODULE  function-bind
+├─ imported: 5 times
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ function-bind -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ function-bind -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ function-bind -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ function-bind -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ function-bind -> es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ function-bind -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ function-bind -> has -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ function-bind -> has -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ function-bind -> has -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ function-bind -> has -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ function-bind -> has -> es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ function-bind -> has -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/function-bind/
+│  
+├─ files: 
+│  ├─ ./node_modules/function-bind/index.js
+│  └─ ./node_modules/function-bind/implementation.js
+│  
+└─ reasons:
+   ├─ es-abstract
+   │  └─ ./node_modules/util.promisify/node_modules/es-abstract/helpers/callBind.js  3:11-35  [cjs require]
+   └─ has
+      └─ ./node_modules/has/src/index.js  3:11-35  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  core-util-is
+├─ imported: 5 times
+├─ deps count: 0
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ core-util-is -> readable-stream -> bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/core-util-is/
+│  
+├─ files: 
+│  └─ ./node_modules/core-util-is/lib/util.js
+│  
+└─ reasons:
+   └─ readable-stream
+      └─ ./node_modules/readable-stream/lib/_stream_passthrough.js  33:25-48  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  locutus
+├─ imported: 5 times
+├─ deps count: 0
+├─ size: 13 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/locutus/
+│  
+├─ files: 
+│  ├─ ./node_modules/locutus/php/strings/md5.js
+│  ├─ ./node_modules/locutus/php/misc/uniqid.js
+│  └─ ./node_modules/locutus/php/xml/utf8_encode.js
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-42  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  617:21-24  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  617:25-28  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  4:0-45  [harmony side effect evaluation]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  617:29-35  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  has-symbols
+├─ imported: 4 times
+├─ deps count: 0
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ has-symbols -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ has-symbols -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ has-symbols -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ has-symbols -> is-regex -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> is-regex -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> is-regex -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ has-symbols -> is-regex -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ has-symbols -> is-regex -> es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ has-symbols -> is-regex -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/has-symbols/
+│  
+├─ files: 
+│  ├─ ./node_modules/has-symbols/index.js
+│  └─ ./node_modules/has-symbols/shams.js
+│  
+└─ reasons:
+   ├─ es-abstract
+   │  └─ ./node_modules/util.promisify/node_modules/es-abstract/GetIntrinsic.js  39:17-39  [cjs require]
+   ├─ util.promisify
+   │  └─ ./node_modules/util.promisify/implementation.js  24:17-39  [cjs require]
+   └─ is-regex
+      └─ ./node_modules/is-regex/index.js  3:17-39  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  has
+├─ imported: 4 times
+├─ deps count: 1
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ has -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ has -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ has -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ has -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ has -> es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ has -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/has/
+│  
+├─ files: 
+│  └─ ./node_modules/has/src/index.js
+│  
+└─ reasons:
+   └─ es-abstract
+      └─ ./node_modules/es-abstract/2019/IsDataDescriptor.js  3:10-24  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-server-errors
+├─ imported: 4 times
+├─ deps count: 1
+├─ size: 8 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-server-errors -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-server-errors/
+│  
+├─ files: 
+│  └─ ./node_modules/apollo-server-errors/dist/index.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  34:31-62  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "net"
+├─ imported: 4 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/connection/connect.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js
+   ├─ ./node_modules/maxmind/lib/ip.js
+   └─ ./node_modules/apollo-server-core/dist/ApolloServer.js
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-env
+├─ imported: 4 times
+├─ deps count: 3
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ apollo-env -> @apollographql/apollo-tools -> apollo-server-core -> apollo-server-lambda
+│  └─ apollo-env -> apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-env/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-env/lib/index.js
+│  ├─ ./node_modules/apollo-env/lib/utils/isNodeLike.js
+│  ├─ ./node_modules/apollo-env/lib/polyfills/index.js
+│  ├─ ./node_modules/apollo-env/lib/polyfills/array.js
+│  ├─ ./node_modules/apollo-env/lib/polyfills/object.js
+│  ├─ ./node_modules/apollo-env/lib/fetch/index.js
+│  ├─ ./node_modules/apollo-env/lib/fetch/fetch.js
+│  ├─ ./node_modules/apollo-env/lib/fetch/url.js
+│  ├─ ./node_modules/apollo-env/lib/utils/index.js
+│  ├─ ./node_modules/apollo-env/lib/utils/createHash.js
+│  ├─ ./node_modules/apollo-env/lib/utils/mapValues.js
+│  └─ ./node_modules/apollo-env/lib/utils/predicates.js
+│  
+└─ reasons:
+   ├─ @apollographql/apollo-tools
+   │  └─ ./node_modules/@apollographql/apollo-tools/lib/index.js  6:0-21  [cjs require]
+   └─ apollo-graphql
+      └─ ./node_modules/apollo-graphql/lib/schema/transformSchema.js  4:21-42  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-engine-reporting-protobuf
+├─ imported: 4 times
+├─ deps count: 2
+├─ size: 370 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-engine-reporting-protobuf/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-engine-reporting-protobuf/dist/index.js
+│  └─ ./node_modules/apollo-engine-reporting-protobuf/dist/protobuf.js
+│  
+└─ reasons:
+   └─ apollo-engine-reporting
+      └─ ./node_modules/apollo-engine-reporting/dist/federatedPlugin.js  3:43-86  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "dns"
+├─ imported: 4 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/auth/gssapi.js
+   ├─ ./node_modules/mongodb/lib/core/sdam/srv_polling.js
+   ├─ ./node_modules/mongodb/lib/core/uri_parser.js
+   └─ ./node_modules/mongodb/lib/url_parser.js
+   
+––––––––––––––––––––
+
+
+ MODULE  process-nextick-args
+├─ imported: 4 times
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ process-nextick-args -> readable-stream -> bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/process-nextick-args/
+│  
+├─ files: 
+│  └─ ./node_modules/process-nextick-args/index.js
+│  
+└─ reasons:
+   └─ readable-stream
+      └─ ./node_modules/readable-stream/lib/_stream_writable.js  30:10-41  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  jsonwebtoken
+├─ imported: 4 times
+├─ deps count: 12
+├─ size: 17 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/jsonwebtoken/
+│  
+├─ files: 
+│  ├─ ./node_modules/jsonwebtoken/index.js
+│  ├─ ./node_modules/jsonwebtoken/lib/JsonWebTokenError.js
+│  ├─ ./node_modules/jsonwebtoken/decode.js
+│  ├─ ./node_modules/jsonwebtoken/lib/NotBeforeError.js
+│  ├─ ./node_modules/jsonwebtoken/lib/TokenExpiredError.js
+│  ├─ ./node_modules/jsonwebtoken/lib/timespan.js
+│  ├─ ./node_modules/jsonwebtoken/lib/psSupported.js
+│  ├─ ./node_modules/jsonwebtoken/verify.js
+│  └─ ./node_modules/jsonwebtoken/sign.js
+│  
+└─ reasons:
+   ├─ twilio
+   │  └─ ./node_modules/twilio/lib/jwt/ClientCapability.js  4:10-33  [cjs require]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  8:21-44  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  moment-timezone
+├─ imported: 4 times
+├─ deps count: 2
+├─ size: 203 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/moment-timezone/
+│  
+├─ files: 
+│  ├─ ./node_modules/moment-timezone/index.js
+│  ├─ ./node_modules/moment-timezone/moment-timezone.js
+│  └─ ./node_modules/moment-timezone/data/packed/latest.json
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  4:0-39  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  18:11-19  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  93:27-35  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  182:11-19  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  otplib
+├─ imported: 4 times
+├─ deps count: 1
+├─ size: 1 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/otplib/
+│  
+├─ files: 
+│  └─ ./node_modules/otplib/index.js
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  5:0-39  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  450:12-25  [harmony import specifier]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  1182:28-41  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  1186:11-24  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  follow-redirects
+├─ imported: 4 times
+├─ deps count: 1
+├─ size: 26 KiB [for all included files]
+├─ type: [transitive]
+│  └─ follow-redirects -> axios
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations:  multiple 
+│  ├─ ./node_modules/axios/node_modules/follow-redirects/
+│  └─ ./node_modules/follow-redirects/
+│  
+├─ files: 
+│  ├─ ./node_modules/axios/node_modules/follow-redirects/index.js
+│  ├─ ./node_modules/follow-redirects/index.js
+│  └─ ./node_modules/axios/node_modules/follow-redirects/debug.js
+│  
+└─ reasons:
+   └─ axios
+      └─ ./node_modules/axios/lib/adapters/http.js  10:18-45  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  dayjs
+├─ imported: 4 times
+├─ deps count: 0
+├─ size: 8 KiB [for all included files]
+├─ type: [transitive]
+│  └─ dayjs -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/dayjs/
+│  
+├─ files: 
+│  ├─ ./node_modules/dayjs/dayjs.min.js
+│  └─ ./node_modules/dayjs/plugin/utc.js
+│  
+└─ reasons:
+   └─ twilio
+      └─ ./node_modules/twilio/lib/base/serialize.js  4:12-28  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  axios
+├─ imported: 3 times
+├─ deps count: 2
+├─ size: 105 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations:  multiple 
+│  ├─ ./node_modules/axios/
+│  └─ ./node_modules/twilio/node_modules/axios/
+│  
+├─ files: 
+│  ├─ ./node_modules/axios/lib/utils.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/utils.js
+│  ├─ ./node_modules/axios/lib/helpers/buildURL.js
+│  ├─ ./node_modules/axios/lib/core/createError.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/helpers/buildURL.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/core/createError.js
+│  ├─ ./node_modules/axios/lib/helpers/bind.js
+│  ├─ ./node_modules/axios/lib/cancel/isCancel.js
+│  ├─ ./node_modules/axios/lib/defaults.js
+│  ├─ ./node_modules/axios/lib/core/settle.js
+│  ├─ ./node_modules/axios/lib/core/enhanceError.js
+│  ├─ ./node_modules/axios/lib/core/buildFullPath.js
+│  ├─ ./node_modules/axios/lib/core/mergeConfig.js
+│  ├─ ./node_modules/axios/lib/cancel/Cancel.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/helpers/bind.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/cancel/isCancel.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/defaults.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/core/settle.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/core/enhanceError.js
+│  ├─ ./node_modules/twilio/node_modules/axios/lib/core/buildFullPath.js
+│  └─ ... 36 more
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-26  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  65:20-25  [harmony import specifier]
+   └─ twilio
+      └─ ./node_modules/twilio/lib/base/RequestClient.js  4:12-28  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  core-js
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 47 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ core-js -> apollo-env -> @apollographql/apollo-tools -> apollo-server-core -> apollo-server-lambda
+│  └─ core-js -> apollo-env -> apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/core-js/
+│  
+├─ files: 
+│  ├─ ./node_modules/core-js/internals/global.js
+│  ├─ ./node_modules/core-js/internals/has.js
+│  ├─ ./node_modules/core-js/internals/well-known-symbol.js
+│  ├─ ./node_modules/core-js/internals/an-object.js
+│  ├─ ./node_modules/core-js/internals/fails.js
+│  ├─ ./node_modules/core-js/internals/is-object.js
+│  ├─ ./node_modules/core-js/internals/create-non-enumerable-property.js
+│  ├─ ./node_modules/core-js/internals/object-define-property.js
+│  ├─ ./node_modules/core-js/internals/descriptors.js
+│  ├─ ./node_modules/core-js/internals/to-length.js
+│  ├─ ./node_modules/core-js/internals/iterators.js
+│  ├─ ./node_modules/core-js/internals/export.js
+│  ├─ ./node_modules/core-js/internals/create-property-descriptor.js
+│  ├─ ./node_modules/core-js/internals/to-indexed-object.js
+│  ├─ ./node_modules/core-js/internals/classof-raw.js
+│  ├─ ./node_modules/core-js/internals/to-primitive.js
+│  ├─ ./node_modules/core-js/internals/set-global.js
+│  ├─ ./node_modules/core-js/internals/shared-key.js
+│  ├─ ./node_modules/core-js/internals/is-pure.js
+│  ├─ ./node_modules/core-js/internals/hidden-keys.js
+│  └─ ... 66 more
+│  
+└─ reasons:
+   └─ apollo-env
+      ├─ ./node_modules/apollo-env/lib/polyfills/array.js  3:0-38  [cjs require]
+      ├─ ./node_modules/apollo-env/lib/polyfills/array.js  4:0-42  [cjs require]
+      └─ ./node_modules/apollo-env/lib/polyfills/object.js  3:0-47  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-server-core
+├─ imported: 3 times
+├─ deps count: 29
+├─ size: 74 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-server-core/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-server-core/dist/index.js
+│  ├─ ./node_modules/apollo-server-core/dist/runHttpQuery.js
+│  ├─ ./node_modules/apollo-server-core/dist/utils/createSHA.js
+│  ├─ ./node_modules/apollo-server-core/dist/utils/runtimeSupportsUploads.js
+│  ├─ ./node_modules/apollo-server-core/dist/graphqlOptions.js
+│  ├─ ./node_modules/apollo-server-core/dist/requestPipeline.js
+│  ├─ ./node_modules/apollo-server-core/dist/utils/isNodeLike.js
+│  ├─ ./node_modules/apollo-server-core/dist/playground.js
+│  ├─ ./node_modules/apollo-server-core/dist/utils/schemaInstrumentation.js
+│  ├─ ./node_modules/apollo-server-core/dist/utils/dispatcher.js
+│  ├─ ./node_modules/apollo-server-core/dist/nodeHttpToRequest.js
+│  ├─ ./node_modules/apollo-server-core/dist/ApolloServer.js
+│  ├─ ./node_modules/apollo-server-core/dist/utils/schemaHash.js
+│  ├─ ./node_modules/apollo-server-core/dist/utils/isDirectiveDefined.js
+│  ├─ ./node_modules/apollo-server-core/dist/types.js
+│  ├─ ./node_modules/apollo-server-core/dist/requestPipelineAPI.js
+│  └─ ./node_modules/apollo-server-core/dist/processFileUploads.js
+│  
+└─ reasons:
+   └─ apollo-server-lambda
+      └─ ./node_modules/apollo-server-lambda/dist/lambdaApollo.js  4:29-58  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  define-properties
+├─ imported: 3 times
+├─ deps count: 1
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ define-properties -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ define-properties -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ define-properties -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ define-properties -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ define-properties -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ define-properties -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/define-properties/
+│  
+├─ files: 
+│  └─ ./node_modules/define-properties/index.js
+│  
+└─ reasons:
+   ├─ util.promisify
+   │  └─ ./node_modules/util.promisify/index.js  3:13-41  [cjs require]
+   └─ object.getownpropertydescriptors
+      └─ ./node_modules/object.getownpropertydescriptors/shim.js  4:13-41  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-server-caching
+├─ imported: 3 times
+├─ deps count: 1
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ apollo-server-caching -> apollo-server-core -> apollo-server-lambda
+│  └─ apollo-server-caching -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-server-caching/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-server-caching/dist/index.js
+│  ├─ ./node_modules/apollo-server-caching/dist/InMemoryLRUCache.js
+│  └─ ./node_modules/apollo-server-caching/dist/PrefixingKeyValueCache.js
+│  
+└─ reasons:
+   ├─ apollo-server-core
+   │  └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  32:32-64  [cjs require]
+   └─ apollo-engine-reporting
+      └─ ./node_modules/apollo-engine-reporting/dist/agent.js  23:32-64  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "tls"
+├─ imported: 3 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/mongodb/lib/core/connection/connect.js
+   ├─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js
+   └─ ./node_modules/apollo-server-core/dist/ApolloServer.js
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-engine-reporting
+├─ imported: 3 times
+├─ deps count: 13
+├─ size: 49 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-engine-reporting/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-engine-reporting/package.json
+│  ├─ ./node_modules/apollo-engine-reporting/dist/agent.js
+│  ├─ ./node_modules/apollo-engine-reporting/dist/treeBuilder.js
+│  ├─ ./node_modules/apollo-engine-reporting/dist/index.js
+│  ├─ ./node_modules/apollo-engine-reporting/dist/plugin.js
+│  ├─ ./node_modules/apollo-engine-reporting/dist/schemaReporter.js
+│  └─ ./node_modules/apollo-engine-reporting/dist/federatedPlugin.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      ├─ ./node_modules/apollo-server-core/dist/ApolloServer.js  45:16-61  [cjs require]
+      ├─ ./node_modules/apollo-server-core/dist/ApolloServer.js  155:45-79  [cjs require]
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  457:40-74  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  cssfilter
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 26 KiB [for all included files]
+├─ type: [transitive]
+│  └─ cssfilter -> xss -> @apollographql/graphql-playground-html -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/cssfilter/
+│  
+├─ files: 
+│  ├─ ./node_modules/cssfilter/lib/index.js
+│  ├─ ./node_modules/cssfilter/lib/default.js
+│  ├─ ./node_modules/cssfilter/lib/util.js
+│  ├─ ./node_modules/cssfilter/lib/css.js
+│  └─ ./node_modules/cssfilter/lib/parser.js
+│  
+└─ reasons:
+   └─ xss
+      └─ ./node_modules/xss/lib/xss.js  7:16-36  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  require_optional
+├─ imported: 3 times
+├─ deps count: 5
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  └─ require_optional -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/require_optional/
+│  
+├─ files: 
+│  └─ ./node_modules/require_optional/index.js
+│  
+└─ reasons:
+   └─ mongodb
+      └─ ./node_modules/mongodb/lib/core/connection/utils.js  3:25-52  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  require_optional sync
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ require_optional sync -> require_optional -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/require_optional sync
+│  
+├─ files: 
+│  └─ ./node_modules/require_optional sync
+│  
+└─ reasons:
+   └─ require_optional
+      └─ ./node_modules/require_optional/index.js  97:35-67  [amd require context]
+   
+––––––––––––––––––––
+
+
+ FILE  external "querystring"
+├─ imported: 3 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/aws4/aws4.js
+   ├─ ./node_modules/mongodb/lib/core/uri_parser.js
+   └─ ./node_modules/twilio/lib/jwt/ClientCapability.js
+   
+––––––––––––––––––––
+
+
+ MODULE  denque
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 12 KiB [for all included files]
+├─ type: [transitive]
+│  └─ denque -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/denque/
+│  
+├─ files: 
+│  └─ ./node_modules/denque/index.js
+│  
+└─ reasons:
+   └─ mongodb
+      └─ ./node_modules/mongodb/lib/cmap/connection_pool.js  3:15-32  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  jws
+├─ imported: 3 times
+├─ deps count: 5
+├─ size: 8 KiB [for all included files]
+├─ type: [transitive]
+│  └─ jws -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/jws/
+│  
+├─ files: 
+│  ├─ ./node_modules/jws/index.js
+│  ├─ ./node_modules/jws/lib/data-stream.js
+│  ├─ ./node_modules/jws/lib/tostring.js
+│  ├─ ./node_modules/jws/lib/sign-stream.js
+│  └─ ./node_modules/jws/lib/verify-stream.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  3:10-24  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  graphql-upload
+├─ imported: 3 times
+├─ deps count: 23
+├─ size: 15 KiB [for all included files]
+├─ type: [transitive]
+│  └─ graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/graphql-upload/
+│  
+├─ files: 
+│  └─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/processFileUploads.js  9:15-40  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  fast-json-stable-stringify
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ fast-json-stable-stringify -> apollo-link -> graphql-tools -> apollo-server-lambda
+│  ├─ fast-json-stable-stringify -> apollo-link -> graphql-tools -> apollo-server-core -> apollo-server-lambda
+│  └─ fast-json-stable-stringify -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/fast-json-stable-stringify/
+│  
+├─ files: 
+│  └─ ./node_modules/fast-json-stable-stringify/index.js
+│  
+└─ reasons:
+   ├─ apollo-link
+   │  └─ ./node_modules/apollo-link/lib/bundle.esm.js + 5 modules  132:30-39  [harmony import specifier]
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/utils/schemaHash.js  10:53-90  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  ulid
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 5 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/ulid/
+│  
+├─ files: 
+│  └─ ./node_modules/ulid/dist/index.esm.js
+│  
+└─ reasons:
+   ├─ aws-lambda-graphql
+   │  └─ ./node_modules/aws-lambda-graphql/dist/DynamoDBEventStore.js  9:15-30  [cjs require]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-28  [harmony side effect evaluation]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  56:12-16  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  twin-bcrypt
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 21 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/twin-bcrypt/
+│  
+├─ files: 
+│  └─ ./node_modules/twin-bcrypt/twin-bcrypt.min.js
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-37  [harmony side effect evaluation]
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  69:11-21  [harmony import specifier]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  81:11-21  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  ms
+├─ imported: 3 times
+├─ deps count: 0
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ ms -> jsonwebtoken
+│  └─ ms -> debug -> follow-redirects -> axios
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations:  multiple 
+│  ├─ ./node_modules/ms/
+│  └─ ./node_modules/follow-redirects/node_modules/ms/
+│  
+├─ files: 
+│  ├─ ./node_modules/ms/index.js
+│  └─ ./node_modules/follow-redirects/node_modules/ms/index.js
+│  
+└─ reasons:
+   ├─ jsonwebtoken
+   │  └─ ./node_modules/jsonwebtoken/lib/timespan.js  1:9-22  [cjs require]
+   └─ debug
+      ├─ ./node_modules/debug/src/common.js  14:24-37  [cjs require]
+      └─ ./node_modules/follow-redirects/node_modules/debug/src/debug.js  14:19-32  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  twilio
+├─ imported: 2 times
+├─ deps count: 816
+├─ size: 7339 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/twilio/
+│  
+├─ files: 
+│  ├─ ./node_modules/twilio/lib/base/Page.js
+│  ├─ ./node_modules/twilio/lib/base/values.js
+│  ├─ ./node_modules/twilio/lib/base/deserialize.js
+│  ├─ ./node_modules/twilio/lib/base/serialize.js
+│  ├─ ./node_modules/twilio/lib/base/Version.js
+│  ├─ ./node_modules/twilio/lib/base/Domain.js
+│  ├─ ./node_modules/twilio/lib/base/RestException.js
+│  ├─ ./node_modules/twilio/lib/twiml/TwiML.js
+│  ├─ ./node_modules/twilio/lib/rest/api/v2010/account.js
+│  ├─ ./node_modules/twilio/lib/jwt/taskrouter/TaskRouterCapability.js
+│  ├─ ./node_modules/twilio/lib/index.js
+│  ├─ ./node_modules/twilio/lib/rest/Twilio.js
+│  ├─ ./node_modules/twilio/package.json
+│  ├─ ./node_modules/twilio/lib/base/RequestClient.js
+│  ├─ ./node_modules/twilio/lib/http/response.js
+│  ├─ ./node_modules/twilio/lib/http/request.js
+│  ├─ ./node_modules/twilio/lib/rest/Accounts.js
+│  ├─ ./node_modules/twilio/lib/rest/accounts/V1.js
+│  ├─ ./node_modules/twilio/lib/rest/accounts/v1/credential.js
+│  ├─ ./node_modules/twilio/lib/rest/accounts/v1/credential/aws.js
+│  └─ ... 440 more
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  3:0-28  [harmony side effect evaluation]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  77:24-30  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  graphql-tools
+├─ imported: 2 times
+├─ deps count: 44
+├─ size: 213 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ graphql-tools -> apollo-server-lambda
+│  └─ graphql-tools -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/graphql-tools/
+│  
+├─ files: 
+│  ├─ ./node_modules/graphql-tools/dist/generate/index.js
+│  ├─ ./node_modules/graphql-tools/dist/makeExecutableSchema.js
+│  ├─ ./node_modules/graphql-tools/dist/transforms/visitSchema.js
+│  ├─ ./node_modules/graphql-tools/dist/stitching/schemaRecreation.js
+│  ├─ ./node_modules/graphql-tools/dist/schemaVisitor.js
+│  ├─ ./node_modules/graphql-tools/dist/transforms/transforms.js
+│  ├─ ./node_modules/graphql-tools/dist/stitching/resolveFromParentTypename.js
+│  ├─ ./node_modules/graphql-tools/dist/stitching/defaultMergedResolver.js
+│  ├─ ./node_modules/graphql-tools/dist/stitching/errors.js
+│  ├─ ./node_modules/graphql-tools/dist/stitching/delegateToSchema.js
+│  ├─ ./node_modules/graphql-tools/dist/transforms/TransformRootFields.js
+│  ├─ ./node_modules/graphql-tools/dist/index.js
+│  ├─ ./node_modules/graphql-tools/dist/mergeDeep.js
+│  ├─ ./node_modules/graphql-tools/dist/isSpecifiedScalarType.js
+│  ├─ ./node_modules/graphql-tools/dist/stitching/getResponseKeyFromInfo.js
+│  ├─ ./node_modules/graphql-tools/dist/stitching/linkToFetcher.js
+│  ├─ ./node_modules/graphql-tools/dist/isEmptyObject.js
+│  ├─ ./node_modules/graphql-tools/dist/transforms/AddArgumentsAsVariables.js
+│  ├─ ./node_modules/graphql-tools/dist/transforms/FilterToSchema.js
+│  ├─ ./node_modules/graphql-tools/dist/implementsAbstractType.js
+│  └─ ... 38 more
+│  
+└─ reasons:
+   ├─ apollo-server-lambda
+   │  └─ ./node_modules/apollo-server-lambda/dist/index.js  25:13-37  [cjs require]
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  27:24-48  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @apollo/protobufjs
+├─ imported: 2 times
+├─ deps count: 7
+├─ size: 51 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@apollo/protobufjs/
+│  
+├─ files: 
+│  ├─ ./node_modules/@apollo/protobufjs/src/util/minimal.js
+│  ├─ ./node_modules/@apollo/protobufjs/minimal.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/writer.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/reader.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/index-minimal.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/util/longbits.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/writer_buffer.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/reader_buffer.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/rpc.js
+│  ├─ ./node_modules/@apollo/protobufjs/src/rpc/service.js
+│  └─ ./node_modules/@apollo/protobufjs/src/roots.js
+│  
+└─ reasons:
+   └─ apollo-engine-reporting-protobuf
+      └─ ./node_modules/apollo-engine-reporting-protobuf/dist/protobuf.js  4:16-53  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  bson
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 184 KiB [for all included files]
+├─ type: [transitive]
+│  └─ bson -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/bson/
+│  
+├─ files: 
+│  ├─ ./node_modules/bson/lib/bson/parser/utils.js
+│  ├─ ./node_modules/bson/lib/bson/long.js
+│  ├─ ./node_modules/bson/lib/bson/binary.js
+│  ├─ ./node_modules/bson/lib/bson/double.js
+│  ├─ ./node_modules/bson/lib/bson/timestamp.js
+│  ├─ ./node_modules/bson/lib/bson/objectid.js
+│  ├─ ./node_modules/bson/lib/bson/regexp.js
+│  ├─ ./node_modules/bson/lib/bson/symbol.js
+│  ├─ ./node_modules/bson/lib/bson/code.js
+│  ├─ ./node_modules/bson/lib/bson/decimal128.js
+│  ├─ ./node_modules/bson/lib/bson/min_key.js
+│  ├─ ./node_modules/bson/lib/bson/max_key.js
+│  ├─ ./node_modules/bson/lib/bson/db_ref.js
+│  ├─ ./node_modules/bson/lib/bson/map.js
+│  ├─ ./node_modules/bson/lib/bson/int_32.js
+│  ├─ ./node_modules/bson/index.js
+│  ├─ ./node_modules/bson/lib/bson/bson.js
+│  ├─ ./node_modules/bson/lib/bson/parser/deserializer.js
+│  ├─ ./node_modules/bson/lib/bson/parser/serializer.js
+│  ├─ ./node_modules/bson/lib/bson/float_parser.js
+│  └─ ... 1 more
+│  
+└─ reasons:
+   └─ mongodb
+      └─ ./node_modules/mongodb/lib/core/connection/utils.js  15:13-28  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  sha.js
+├─ imported: 2 times
+├─ deps count: 13
+├─ size: 19 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ sha.js -> apollo-server-core -> apollo-server-lambda
+│  ├─ sha.js -> apollo-env -> @apollographql/apollo-tools -> apollo-server-core -> apollo-server-lambda
+│  └─ sha.js -> apollo-env -> apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/sha.js/
+│  
+├─ files: 
+│  ├─ ./node_modules/sha.js/hash.js
+│  ├─ ./node_modules/sha.js/index.js
+│  ├─ ./node_modules/sha.js/sha256.js
+│  ├─ ./node_modules/sha.js/sha512.js
+│  ├─ ./node_modules/sha.js/sha.js
+│  ├─ ./node_modules/sha.js/sha1.js
+│  ├─ ./node_modules/sha.js/sha224.js
+│  └─ ./node_modules/sha.js/sha384.js
+│  
+└─ reasons:
+   ├─ apollo-server-core
+   │  └─ ./node_modules/apollo-server-core/dist/utils/createSHA.js  11:11-28  [cjs require]
+   └─ apollo-env
+      └─ ./node_modules/apollo-env/lib/utils/createHash.js  8:11-28  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  busboy
+├─ imported: 2 times
+├─ deps count: 1
+├─ size: 626 KiB [for all included files]
+├─ type: [transitive]
+│  └─ busboy -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/busboy/
+│  
+├─ files: 
+│  ├─ ./node_modules/busboy/lib/utils.js
+│  ├─ ./node_modules/busboy/lib/main.js
+│  ├─ ./node_modules/busboy/deps/encoding/encoding.js
+│  ├─ ./node_modules/busboy/deps/encoding/encoding-indexes.js
+│  ├─ ./node_modules/busboy/lib/types/multipart.js
+│  └─ ./node_modules/busboy/lib/types/urlencoded.js
+│  
+└─ reasons:
+   └─ graphql-upload
+      └─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules  36:23-29  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  maxmind
+├─ imported: 2 times
+├─ deps count: 1
+├─ size: 21 KiB [for all included files]
+├─ type: [direct]
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/maxmind/
+│  
+├─ files: 
+│  ├─ ./node_modules/maxmind/lib/utils.js
+│  ├─ ./node_modules/maxmind/lib/ip.js
+│  ├─ ./node_modules/maxmind/lib/reader.js
+│  ├─ ./node_modules/maxmind/lib/decoder.js
+│  ├─ ./node_modules/maxmind/lib/index.js
+│  ├─ ./node_modules/maxmind/lib/fs.js
+│  ├─ ./node_modules/maxmind/lib/is-gzip.js
+│  ├─ ./node_modules/maxmind/lib/metadata.js
+│  ├─ ./node_modules/maxmind/lib/reader/walker.js
+│  └─ ./node_modules/maxmind/lib/reader/response.js
+│  
+└─ reasons:
+   ├─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  4:0-30  [harmony side effect evaluation]
+   └─ ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules  116:32-39  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  node-fetch
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 41 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ node-fetch -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ node-fetch -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ node-fetch -> apollo-server-env -> apollo-server-lambda
+│  ├─ node-fetch -> apollo-env -> @apollographql/apollo-tools -> apollo-server-core -> apollo-server-lambda
+│  └─ node-fetch -> apollo-env -> apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/node-fetch/
+│  
+├─ files: 
+│  └─ ./node_modules/node-fetch/lib/index.mjs
+│  
+└─ reasons:
+   ├─ apollo-server-env
+   │  └─ ./node_modules/apollo-server-env/dist/polyfills/fetch.js  3:19-40  [cjs require]
+   └─ apollo-env
+      └─ ./node_modules/apollo-env/lib/fetch/fetch.js  3:19-40  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  graphql-extensions
+├─ imported: 2 times
+├─ deps count: 1
+├─ size: 7 KiB [for all included files]
+├─ type: [transitive]
+│  └─ graphql-extensions -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/graphql-extensions/
+│  
+├─ files: 
+│  └─ ./node_modules/graphql-extensions/dist/index.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/types.js  3:27-56  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-server-types
+├─ imported: 2 times
+├─ deps count: 1
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-server-types -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-server-types/
+│  
+├─ files: 
+│  └─ ./node_modules/apollo-server-types/dist/index.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/requestPipelineAPI.js  3:28-58  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  uuid
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 15 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ uuid -> graphql-tools -> apollo-server-lambda
+│  ├─ uuid -> graphql-tools -> apollo-server-core -> apollo-server-lambda
+│  └─ uuid -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations:  multiple 
+│  ├─ ./node_modules/graphql-tools/node_modules/uuid/
+│  └─ ./node_modules/uuid/
+│  
+├─ files: 
+│  ├─ ./node_modules/graphql-tools/node_modules/uuid/lib/rng.js
+│  ├─ ./node_modules/graphql-tools/node_modules/uuid/lib/bytesToUuid.js
+│  ├─ ./node_modules/graphql-tools/node_modules/uuid/index.js
+│  ├─ ./node_modules/graphql-tools/node_modules/uuid/v1.js
+│  ├─ ./node_modules/graphql-tools/node_modules/uuid/v4.js
+│  └─ ./node_modules/uuid/dist/esm-node/index.js + 14 modules
+│  
+└─ reasons:
+   ├─ graphql-tools
+   │  └─ ./node_modules/graphql-tools/dist/mock.js  3:11-26  [cjs require]
+   └─ apollo-engine-reporting
+      └─ ./node_modules/apollo-engine-reporting/dist/agent.js  26:15-30  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  streamsearch
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 7 KiB [for all included files]
+├─ type: [transitive]
+│  └─ streamsearch -> dicer -> busboy -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/streamsearch/
+│  
+├─ files: 
+│  └─ ./node_modules/streamsearch/lib/sbmh.js
+│  
+└─ reasons:
+   └─ dicer
+      └─ ./node_modules/dicer/lib/HeaderParser.js  4:19-42  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  semver
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 38 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ semver -> require_optional -> mongodb
+│  └─ semver -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/semver/
+│  
+├─ files: 
+│  └─ ./node_modules/semver/semver.js
+│  
+└─ reasons:
+   ├─ require_optional
+   │  └─ ./node_modules/require_optional/index.js  5:11-28  [cjs require]
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/lib/psSupported.js  1:13-30  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  string_decoder
+├─ imported: 2 times
+├─ deps count: 1
+├─ size: 10 KiB [for all included files]
+├─ type: [transitive]
+│  └─ string_decoder -> readable-stream -> bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/readable-stream/node_modules/string_decoder/
+│  
+├─ files: 
+│  └─ ./node_modules/readable-stream/node_modules/string_decoder/lib/string_decoder.js
+│  
+└─ reasons:
+   └─ readable-stream
+      └─ ./node_modules/readable-stream/lib/_stream_readable.js  328:38-64  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  stackframe
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 5 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ stackframe -> error-stack-parser -> @bugsnag/node -> @bugsnag/js
+│  └─ stackframe -> stack-generator -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/stackframe/
+│  
+├─ files: 
+│  └─ ./node_modules/stackframe/stackframe.js
+│  
+└─ reasons:
+   ├─ error-stack-parser
+   │  └─ ./node_modules/error-stack-parser/error-stack-parser.js  7:8-61  [amd require]
+   └─ stack-generator
+      └─ ./node_modules/stack-generator/stack-generator.js  7:8-58  [amd require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "domain"
+├─ imported: 2 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+   └─ ./node_modules/asap/raw.js
+   
+––––––––––––––––––––
+
+
+ MODULE  once
+├─ imported: 2 times
+├─ deps count: 1
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ once -> pump -> @bugsnag/node -> @bugsnag/js
+│  └─ once -> end-of-stream -> pump -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/once/
+│  
+├─ files: 
+│  └─ ./node_modules/once/once.js
+│  
+└─ reasons:
+   ├─ pump
+   │  └─ ./node_modules/pump/index.js  1:11-26  [cjs require]
+   └─ end-of-stream
+      └─ ./node_modules/end-of-stream/index.js  1:11-26  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  jwa
+├─ imported: 2 times
+├─ deps count: 3
+├─ size: 7 KiB [for all included files]
+├─ type: [transitive]
+│  └─ jwa -> jws -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/jwa/
+│  
+├─ files: 
+│  └─ ./node_modules/jwa/index.js
+│  
+└─ reasons:
+   └─ jws
+      └─ ./node_modules/jws/lib/verify-stream.js  4:10-24  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  debug
+├─ imported: 2 times
+├─ deps count: 3
+├─ size: 32 KiB [for all included files]
+├─ type: [transitive]
+│  └─ debug -> follow-redirects -> axios
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations:  multiple 
+│  ├─ ./node_modules/debug/
+│  └─ ./node_modules/follow-redirects/node_modules/debug/
+│  
+├─ files: 
+│  ├─ ./node_modules/debug/src/common.js
+│  ├─ ./node_modules/follow-redirects/node_modules/debug/src/debug.js
+│  ├─ ./node_modules/debug/src/index.js
+│  ├─ ./node_modules/debug/src/browser.js
+│  ├─ ./node_modules/debug/src/node.js
+│  ├─ ./node_modules/follow-redirects/node_modules/debug/src/index.js
+│  ├─ ./node_modules/follow-redirects/node_modules/debug/src/browser.js
+│  └─ ./node_modules/follow-redirects/node_modules/debug/src/node.js
+│  
+└─ reasons:
+   └─ follow-redirects
+      ├─ ./node_modules/axios/node_modules/follow-redirects/debug.js  4:10-26  [cjs require]
+      └─ ./node_modules/follow-redirects/index.js  6:12-28  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "tty"
+├─ imported: 2 times
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   ├─ ./node_modules/debug/src/node.js
+   └─ ./node_modules/follow-redirects/node_modules/debug/src/node.js
+   
+––––––––––––––––––––
+
+
+ MODULE  supports-color
+├─ imported: 2 times
+├─ deps count: 1
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ supports-color -> debug -> follow-redirects -> axios
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/supports-color/
+│  
+├─ files: 
+│  └─ ./node_modules/supports-color/index.js
+│  
+└─ reasons:
+   └─ debug
+      └─ ./node_modules/follow-redirects/node_modules/debug/src/node.js  29:22-47  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-link
+├─ imported: 2 times
+├─ deps count: 13
+├─ size: 59 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ apollo-link -> graphql-tools -> apollo-server-lambda
+│  └─ apollo-link -> graphql-tools -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-link/
+│  
+├─ files: 
+│  └─ ./node_modules/apollo-link/lib/bundle.esm.js + 5 modules
+│  
+└─ reasons:
+   └─ graphql-tools
+      └─ ./node_modules/graphql-tools/dist/stitching/linkToFetcher.js  3:20-42  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  zen-observable
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 16 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ zen-observable -> apollo-link -> graphql-tools -> apollo-server-lambda
+│  └─ zen-observable -> apollo-link -> graphql-tools -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/zen-observable/
+│  
+├─ files: 
+│  ├─ ./node_modules/zen-observable/index.js
+│  └─ ./node_modules/zen-observable/lib/Observable.js
+│  
+└─ reasons:
+   └─ apollo-link
+      └─ ./node_modules/apollo-link/lib/bundle.esm.js + 5 modules  3:17-30  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  object-path
+├─ imported: 2 times
+├─ deps count: 0
+├─ size: 8 KiB [for all included files]
+├─ type: [transitive]
+│  └─ object-path -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/object-path/
+│  
+├─ files: 
+│  └─ ./node_modules/object-path/index.js
+│  
+└─ reasons:
+   └─ graphql-upload
+      └─ ./node_modules/graphql-upload/lib/index.mjs + 8 modules  111:29-39  [harmony import specifier]
+   
+––––––––––––––––––––
+
+
+ MODULE  xmlbuilder
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 151 KiB [for all included files]
+├─ type: [transitive]
+│  └─ xmlbuilder -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/xmlbuilder/
+│  
+├─ files: 
+│  ├─ ./node_modules/xmlbuilder/lib/NodeType.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLNode.js
+│  ├─ ./node_modules/xmlbuilder/lib/Utility.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLCharacterData.js
+│  ├─ ./node_modules/xmlbuilder/lib/WriterState.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLElement.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLNamedNodeMap.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLCData.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLComment.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLDeclaration.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLDocType.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLDTDAttList.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLDTDEntity.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLDTDElement.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLDTDNotation.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLRaw.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLText.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLProcessingInstruction.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLStringWriter.js
+│  ├─ ./node_modules/xmlbuilder/lib/XMLDOMImplementation.js
+│  └─ ... 13 more
+│  
+└─ reasons:
+   └─ twilio
+      └─ ./node_modules/twilio/lib/twiml/TwiML.js  3:14-35  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  readable-stream
+├─ imported: 1 time
+├─ deps count: 21
+├─ size: 69 KiB [for all included files]
+├─ type: [transitive]
+│  └─ readable-stream -> bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/readable-stream/
+│  
+├─ files: 
+│  ├─ ./node_modules/readable-stream/lib/_stream_duplex.js
+│  ├─ ./node_modules/readable-stream/lib/_stream_readable.js
+│  ├─ ./node_modules/readable-stream/lib/internal/streams/stream.js
+│  ├─ ./node_modules/readable-stream/lib/internal/streams/destroy.js
+│  ├─ ./node_modules/readable-stream/lib/_stream_writable.js
+│  ├─ ./node_modules/readable-stream/lib/_stream_transform.js
+│  ├─ ./node_modules/readable-stream/readable.js
+│  ├─ ./node_modules/readable-stream/lib/internal/streams/BufferList.js
+│  └─ ./node_modules/readable-stream/lib/_stream_passthrough.js
+│  
+└─ reasons:
+   └─ bl
+      └─ ./node_modules/mongodb/node_modules/bl/bl.js  2:19-45  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  source-map
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 100 KiB [for all included files]
+├─ type: [transitive]
+│  └─ source-map -> source-map-support
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/source-map/
+│  
+├─ files: 
+│  ├─ ./node_modules/source-map/lib/util.js
+│  ├─ ./node_modules/source-map/lib/source-map-generator.js
+│  ├─ ./node_modules/source-map/lib/base64-vlq.js
+│  ├─ ./node_modules/source-map/lib/array-set.js
+│  ├─ ./node_modules/source-map/source-map.js
+│  ├─ ./node_modules/source-map/lib/base64.js
+│  ├─ ./node_modules/source-map/lib/mapping-list.js
+│  ├─ ./node_modules/source-map/lib/source-map-consumer.js
+│  ├─ ./node_modules/source-map/lib/binary-search.js
+│  ├─ ./node_modules/source-map/lib/quick-sort.js
+│  └─ ./node_modules/source-map/lib/source-node.js
+│  
+└─ reasons:
+   └─ source-map-support
+      └─ ./node_modules/source-map-support/source-map-support.js  1:24-45  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  subscriptions-transport-ws
+├─ imported: 1 time
+├─ deps count: 7
+├─ size: 46 KiB [for all included files]
+├─ type: [transitive]
+│  └─ subscriptions-transport-ws -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/subscriptions-transport-ws/
+│  
+├─ files: 
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/message-types.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/protocol.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/utils/is-object.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/index.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/client.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/utils/is-string.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/defaults.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/server.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js
+│  ├─ ./node_modules/subscriptions-transport-ws/dist/utils/is-subscriptions.js
+│  └─ ./node_modules/subscriptions-transport-ws/dist/legacy/parse-legacy-protocol.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  354:39-76  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  xss
+├─ imported: 1 time
+├─ deps count: 3
+├─ size: 23 KiB [for all included files]
+├─ type: [transitive]
+│  └─ xss -> @apollographql/graphql-playground-html -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/xss/
+│  
+├─ files: 
+│  ├─ ./node_modules/xss/lib/util.js
+│  ├─ ./node_modules/xss/lib/default.js
+│  ├─ ./node_modules/xss/lib/parser.js
+│  ├─ ./node_modules/xss/lib/index.js
+│  └─ ./node_modules/xss/lib/xss.js
+│  
+└─ reasons:
+   └─ @apollographql/graphql-playground-html
+      └─ ./node_modules/@apollographql/graphql-playground-html/dist/render-playground-page.js  15:12-26  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  qs
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 25 KiB [for all included files]
+├─ type: [transitive]
+│  └─ qs -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/qs/
+│  
+├─ files: 
+│  ├─ ./node_modules/qs/lib/utils.js
+│  ├─ ./node_modules/qs/lib/formats.js
+│  ├─ ./node_modules/qs/lib/index.js
+│  ├─ ./node_modules/qs/lib/stringify.js
+│  └─ ./node_modules/qs/lib/parse.js
+│  
+└─ reasons:
+   └─ twilio
+      └─ ./node_modules/twilio/lib/base/RequestClient.js  9:9-22  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  object-keys
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 5 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ object-keys -> define-properties -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ object-keys -> define-properties -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ object-keys -> define-properties -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ object-keys -> define-properties -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ object-keys -> define-properties -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ object-keys -> define-properties -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/object-keys/
+│  
+├─ files: 
+│  ├─ ./node_modules/object-keys/isArguments.js
+│  ├─ ./node_modules/object-keys/index.js
+│  └─ ./node_modules/object-keys/implementation.js
+│  
+└─ reasons:
+   └─ define-properties
+      └─ ./node_modules/define-properties/index.js  3:11-33  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  util.promisify
+├─ imported: 1 time
+├─ deps count: 4
+├─ size: 5 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/util.promisify/
+│  
+├─ files: 
+│  ├─ ./node_modules/util.promisify/implementation.js
+│  ├─ ./node_modules/util.promisify/polyfill.js
+│  ├─ ./node_modules/util.promisify/index.js
+│  └─ ./node_modules/util.promisify/shim.js
+│  
+└─ reasons:
+   └─ apollo-server-env
+      └─ ./node_modules/apollo-server-env/dist/index.js  20:4-29  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  object.getownpropertydescriptors
+├─ imported: 1 time
+├─ deps count: 3
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/object.getownpropertydescriptors/
+│  
+├─ files: 
+│  ├─ ./node_modules/object.getownpropertydescriptors/implementation.js
+│  ├─ ./node_modules/object.getownpropertydescriptors/polyfill.js
+│  ├─ ./node_modules/object.getownpropertydescriptors/index.js
+│  └─ ./node_modules/object.getownpropertydescriptors/shim.js
+│  
+└─ reasons:
+   └─ util.promisify
+      └─ ./node_modules/util.promisify/implementation.js  12:32-75  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @apollographql/apollo-tools
+├─ imported: 1 time
+├─ deps count: 3
+├─ size: 9 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @apollographql/apollo-tools -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@apollographql/apollo-tools/
+│  
+├─ files: 
+│  ├─ ./node_modules/@apollographql/apollo-tools/lib/utilities/predicates.js
+│  ├─ ./node_modules/@apollographql/apollo-tools/lib/utilities/graphql.js
+│  ├─ ./node_modules/@apollographql/apollo-tools/lib/index.js
+│  ├─ ./node_modules/@apollographql/apollo-tools/lib/utilities/index.js
+│  ├─ ./node_modules/@apollographql/apollo-tools/lib/utilities/invariant.js
+│  └─ ./node_modules/@apollographql/apollo-tools/lib/buildServiceDefinition.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  42:23-61  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-graphql
+├─ imported: 1 time
+├─ deps count: 7
+├─ size: 19 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-graphql/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-graphql/lib/schema/GraphQLSchemaValidationError.js
+│  ├─ ./node_modules/apollo-graphql/lib/index.js
+│  ├─ ./node_modules/apollo-graphql/lib/operationId.js
+│  ├─ ./node_modules/apollo-graphql/lib/transforms.js
+│  ├─ ./node_modules/apollo-graphql/lib/schema/index.js
+│  ├─ ./node_modules/apollo-graphql/lib/schema/buildSchemaFromSDL.js
+│  ├─ ./node_modules/apollo-graphql/lib/utilities/graphql.js
+│  └─ ./node_modules/apollo-graphql/lib/schema/transformSchema.js
+│  
+└─ reasons:
+   └─ apollo-engine-reporting
+      └─ ./node_modules/apollo-engine-reporting/dist/agent.js  24:25-50  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  depd
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 15 KiB [for all included files]
+├─ type: [transitive]
+│  └─ depd -> http-errors -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/depd/
+│  
+├─ files: 
+│  ├─ ./node_modules/depd/lib/compat/index.js
+│  ├─ ./node_modules/depd/index.js
+│  ├─ ./node_modules/depd/lib/compat/callsite-tostring.js
+│  └─ ./node_modules/depd/lib/compat/event-listener-count.js
+│  
+└─ reasons:
+   └─ http-errors
+      └─ ./node_modules/http-errors/index.js  15:16-31  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  pop-iterate
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ pop-iterate -> q -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/pop-iterate/
+│  
+├─ files: 
+│  ├─ ./node_modules/pop-iterate/array-iterator.js
+│  ├─ ./node_modules/pop-iterate/iteration.js
+│  ├─ ./node_modules/pop-iterate/pop-iterate.js
+│  └─ ./node_modules/pop-iterate/object-iterator.js
+│  
+└─ reasons:
+   └─ q
+      └─ ./node_modules/q/q.js  44:14-36  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  graphql-subscriptions
+├─ imported: 1 time
+├─ deps count: 2
+├─ size: 12 KiB [for all included files]
+├─ type: [transitive]
+│  └─ graphql-subscriptions -> aws-lambda-graphql
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/graphql-subscriptions/
+│  
+├─ files: 
+│  ├─ ./node_modules/graphql-subscriptions/dist/pubsub-engine.js
+│  ├─ ./node_modules/graphql-subscriptions/dist/index.js
+│  ├─ ./node_modules/graphql-subscriptions/dist/pubsub-async-iterator.js
+│  ├─ ./node_modules/graphql-subscriptions/dist/pubsub.js
+│  └─ ./node_modules/graphql-subscriptions/dist/with-filter.js
+│  
+└─ reasons:
+   └─ aws-lambda-graphql
+      └─ ./node_modules/aws-lambda-graphql/dist/Server.js  21:32-64  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  symbol-observable
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ symbol-observable -> subscriptions-transport-ws -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/symbol-observable/
+│  
+├─ files: 
+│  ├─ ./node_modules/symbol-observable/es/ponyfill.js
+│  └─ ./node_modules/symbol-observable/es/index.js
+│  
+└─ reasons:
+   └─ subscriptions-transport-ws
+      └─ ./node_modules/subscriptions-transport-ws/dist/client.js  54:26-54  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  buffer-from
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ buffer-from -> source-map-support
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/buffer-from/
+│  
+├─ files: 
+│  └─ ./node_modules/buffer-from/index.js
+│  
+└─ reasons:
+   └─ source-map-support
+      └─ ./node_modules/source-map-support/source-map-support.js  15:17-39  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  is-regex
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ is-regex -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ is-regex -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ is-regex -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ is-regex -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ is-regex -> es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ is-regex -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/is-regex/
+│  
+├─ files: 
+│  └─ ./node_modules/is-regex/index.js
+│  
+└─ reasons:
+   └─ es-abstract
+      └─ ./node_modules/es-abstract/2019/IsRegExp.js  7:23-42  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  is-callable
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ is-callable -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ is-callable -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  ├─ is-callable -> es-abstract -> object.getownpropertydescriptors -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  ├─ is-callable -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-core -> apollo-server-lambda
+│  ├─ is-callable -> es-abstract -> util.promisify -> apollo-server-env -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  └─ is-callable -> es-abstract -> util.promisify -> apollo-server-env -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/is-callable/
+│  
+├─ files: 
+│  └─ ./node_modules/is-callable/index.js
+│  
+└─ reasons:
+   └─ es-abstract
+      └─ ./node_modules/es-abstract/2019/IsCallable.js  5:17-39  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lru-cache
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 8 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ lru-cache -> apollo-server-caching -> apollo-server-core -> apollo-server-lambda
+│  └─ lru-cache -> apollo-server-caching -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lru-cache/
+│  
+├─ files: 
+│  └─ ./node_modules/lru-cache/index.js
+│  
+└─ reasons:
+   └─ apollo-server-caching
+      └─ ./node_modules/apollo-server-caching/dist/InMemoryLRUCache.js  16:36-56  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  yallist
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 9 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ yallist -> lru-cache -> apollo-server-caching -> apollo-server-core -> apollo-server-lambda
+│  └─ yallist -> lru-cache -> apollo-server-caching -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lru-cache/node_modules/yallist/
+│  
+├─ files: 
+│  ├─ ./node_modules/lru-cache/node_modules/yallist/yallist.js
+│  └─ ./node_modules/lru-cache/node_modules/yallist/iterator.js
+│  
+└─ reasons:
+   └─ lru-cache
+      └─ ./node_modules/lru-cache/index.js  4:16-34  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  deprecated-decorator
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ deprecated-decorator -> graphql-tools -> apollo-server-lambda
+│  └─ deprecated-decorator -> graphql-tools -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/deprecated-decorator/
+│  
+├─ files: 
+│  └─ ./node_modules/deprecated-decorator/bld/index.js
+│  
+└─ reasons:
+   └─ graphql-tools
+      └─ ./node_modules/graphql-tools/dist/generate/attachConnectorsToContext.js  3:29-60  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  loglevel
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 9 KiB [for all included files]
+├─ type: [transitive]
+│  └─ loglevel -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/loglevel/
+│  
+├─ files: 
+│  └─ ./node_modules/loglevel/lib/loglevel.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  30:35-54  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-tracing
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-tracing -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-tracing/
+│  
+├─ files: 
+│  ├─ ./node_modules/apollo-tracing/dist/index.js
+│  └─ ./node_modules/apollo-tracing/package.json
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  43:25-50  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  apollo-cache-control
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ apollo-cache-control -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/apollo-cache-control/
+│  
+├─ files: 
+│  └─ ./node_modules/apollo-cache-control/dist/index.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/ApolloServer.js  44:31-62  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @protobufjs/aspromise
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @protobufjs/aspromise -> @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@protobufjs/aspromise/
+│  
+├─ files: 
+│  └─ ./node_modules/@protobufjs/aspromise/index.js
+│  
+└─ reasons:
+   └─ @apollo/protobufjs
+      └─ ./node_modules/@apollo/protobufjs/src/util/minimal.js  5:17-49  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @protobufjs/base64
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @protobufjs/base64 -> @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@protobufjs/base64/
+│  
+├─ files: 
+│  └─ ./node_modules/@protobufjs/base64/index.js
+│  
+└─ reasons:
+   └─ @apollo/protobufjs
+      └─ ./node_modules/@apollo/protobufjs/src/util/minimal.js  8:14-43  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @protobufjs/eventemitter
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @protobufjs/eventemitter -> @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@protobufjs/eventemitter/
+│  
+├─ files: 
+│  └─ ./node_modules/@protobufjs/eventemitter/index.js
+│  
+└─ reasons:
+   └─ @apollo/protobufjs
+      └─ ./node_modules/@apollo/protobufjs/src/util/minimal.js  11:20-55  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @protobufjs/float
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 12 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @protobufjs/float -> @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@protobufjs/float/
+│  
+├─ files: 
+│  └─ ./node_modules/@protobufjs/float/index.js
+│  
+└─ reasons:
+   └─ @apollo/protobufjs
+      └─ ./node_modules/@apollo/protobufjs/src/util/minimal.js  14:13-41  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @protobufjs/inquire
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @protobufjs/inquire -> @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@protobufjs/inquire/
+│  
+├─ files: 
+│  └─ ./node_modules/@protobufjs/inquire/index.js
+│  
+└─ reasons:
+   └─ @apollo/protobufjs
+      └─ ./node_modules/@apollo/protobufjs/src/util/minimal.js  17:15-45  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @protobufjs/utf8
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @protobufjs/utf8 -> @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@protobufjs/utf8/
+│  
+├─ files: 
+│  └─ ./node_modules/@protobufjs/utf8/index.js
+│  
+└─ reasons:
+   └─ @apollo/protobufjs
+      └─ ./node_modules/@apollo/protobufjs/src/util/minimal.js  20:12-39  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @protobufjs/pool
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @protobufjs/pool -> @apollo/protobufjs -> apollo-engine-reporting-protobuf -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@protobufjs/pool/
+│  
+├─ files: 
+│  └─ ./node_modules/@protobufjs/pool/index.js
+│  
+└─ reasons:
+   └─ @apollo/protobufjs
+      └─ ./node_modules/@apollo/protobufjs/src/util/minimal.js  23:12-39  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  async-retry
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ async-retry -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/async-retry/
+│  
+├─ files: 
+│  └─ ./node_modules/async-retry/lib/index.js
+│  
+└─ reasons:
+   └─ apollo-engine-reporting
+      └─ ./node_modules/apollo-engine-reporting/dist/agent.js  21:38-60  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  retry
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ retry -> async-retry -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/retry/
+│  
+├─ files: 
+│  ├─ ./node_modules/retry/index.js
+│  ├─ ./node_modules/retry/lib/retry.js
+│  └─ ./node_modules/retry/lib/retry_operation.js
+│  
+└─ reasons:
+   └─ async-retry
+      └─ ./node_modules/async-retry/lib/index.js  2:14-30  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.sortby
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 71 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.sortby -> apollo-graphql -> apollo-engine-reporting -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.sortby/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.sortby/index.js
+│  
+└─ reasons:
+   └─ apollo-graphql
+      └─ ./node_modules/apollo-graphql/lib/transforms.js  9:40-64  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  dicer
+├─ imported: 1 time
+├─ deps count: 2
+├─ size: 10 KiB [for all included files]
+├─ type: [transitive]
+│  └─ dicer -> busboy -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/dicer/
+│  
+├─ files: 
+│  ├─ ./node_modules/dicer/lib/Dicer.js
+│  ├─ ./node_modules/dicer/lib/PartStream.js
+│  └─ ./node_modules/dicer/lib/HeaderParser.js
+│  
+└─ reasons:
+   └─ busboy
+      └─ ./node_modules/busboy/lib/types/multipart.js  11:12-28  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  setprototypeof
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ setprototypeof -> http-errors -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/setprototypeof/
+│  
+├─ files: 
+│  └─ ./node_modules/setprototypeof/index.js
+│  
+└─ reasons:
+   └─ http-errors
+      └─ ./node_modules/http-errors/index.js  16:21-46  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  statuses
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  └─ statuses -> http-errors -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/statuses/
+│  
+├─ files: 
+│  ├─ ./node_modules/statuses/index.js
+│  └─ ./node_modules/statuses/codes.json
+│  
+└─ reasons:
+   └─ http-errors
+      └─ ./node_modules/http-errors/index.js  17:15-34  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  toidentifier
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ toidentifier -> http-errors -> graphql-upload -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/toidentifier/
+│  
+├─ files: 
+│  └─ ./node_modules/toidentifier/index.js
+│  
+└─ reasons:
+   └─ http-errors
+      └─ ./node_modules/http-errors/index.js  19:19-42  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  backo2
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ backo2 -> subscriptions-transport-ws -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/backo2/
+│  
+├─ files: 
+│  └─ ./node_modules/backo2/index.js
+│  
+└─ reasons:
+   └─ subscriptions-transport-ws
+      └─ ./node_modules/subscriptions-transport-ws/dist/client.js  48:14-31  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  eventemitter3
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 9 KiB [for all included files]
+├─ type: [transitive]
+│  └─ eventemitter3 -> subscriptions-transport-ws -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/subscriptions-transport-ws/node_modules/eventemitter3/
+│  
+├─ files: 
+│  └─ ./node_modules/subscriptions-transport-ws/node_modules/eventemitter3/index.js
+│  
+└─ reasons:
+   └─ subscriptions-transport-ws
+      └─ ./node_modules/subscriptions-transport-ws/dist/client.js  49:22-46  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  (webpack)/buildin/harmony-module.js
+├─ imported: 1 time
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   └─ ./node_modules/symbol-observable/es/index.js
+   
+––––––––––––––––––––
+
+
+ MODULE  async-limiter
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/async-limiter/
+│  
+├─ files: 
+│  └─ ./node_modules/async-limiter/index.js
+│  
+└─ reasons:
+   └─ ws
+      └─ ./node_modules/subscriptions-transport-ws/node_modules/ws/lib/permessage-deflate.js  3:16-40  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  graphql-tag
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ graphql-tag -> apollo-server-core -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/graphql-tag/
+│  
+├─ files: 
+│  └─ ./node_modules/graphql-tag/src/index.js
+│  
+└─ reasons:
+   └─ apollo-server-core
+      └─ ./node_modules/apollo-server-core/dist/index.js  41:38-60  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @apollographql/graphql-playground-html
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 22 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @apollographql/graphql-playground-html -> apollo-server-lambda
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@apollographql/graphql-playground-html/
+│  
+├─ files: 
+│  ├─ ./node_modules/@apollographql/graphql-playground-html/dist/index.js
+│  ├─ ./node_modules/@apollographql/graphql-playground-html/dist/render-playground-page.js
+│  └─ ./node_modules/@apollographql/graphql-playground-html/dist/get-loading-markup.js
+│  
+└─ reasons:
+   └─ apollo-server-lambda
+      └─ ./node_modules/apollo-server-lambda/dist/ApolloServer.js  14:34-83  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  resolve-from
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ resolve-from -> require_optional -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/require_optional/node_modules/resolve-from/
+│  
+├─ files: 
+│  └─ ./node_modules/require_optional/node_modules/resolve-from/index.js
+│  
+└─ reasons:
+   └─ require_optional
+      └─ ./node_modules/require_optional/index.js  4:16-39  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "module"
+├─ imported: 1 time
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   └─ ./node_modules/require_optional/node_modules/resolve-from/index.js
+   
+––––––––––––––––––––
+
+
+ MODULE  saslprep
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 5 KiB [for all included files]
+├─ type: [transitive]
+│  └─ saslprep -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/saslprep/
+│  
+├─ files: 
+│  ├─ ./node_modules/saslprep/index.js
+│  └─ ./node_modules/saslprep/lib/memory-code-points.js
+│  
+└─ reasons:
+   └─ mongodb
+      └─ ./node_modules/mongodb/lib/core/auth/scram.js  13:13-32  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  sparse-bitfield
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ sparse-bitfield -> saslprep -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/sparse-bitfield/
+│  
+├─ files: 
+│  └─ ./node_modules/sparse-bitfield/index.js
+│  
+└─ reasons:
+   └─ saslprep
+      └─ ./node_modules/saslprep/lib/memory-code-points.js  5:17-43  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  memory-pager
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  └─ memory-pager -> sparse-bitfield -> saslprep -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/memory-pager/
+│  
+├─ files: 
+│  └─ ./node_modules/memory-pager/index.js
+│  
+└─ reasons:
+   └─ sparse-bitfield
+      └─ ./node_modules/sparse-bitfield/index.js  1:12-35  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  aws4
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 14 KiB [for all included files]
+├─ type: [transitive]
+│  └─ aws4 -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/aws4/
+│  
+├─ files: 
+│  ├─ ./node_modules/aws4/aws4.js
+│  └─ ./node_modules/aws4/lru.js
+│  
+└─ reasons:
+   └─ mongodb
+      └─ ./node_modules/mongodb/lib/core/auth/mongodb_aws.js  12:9-24  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  bl
+├─ imported: 1 time
+├─ deps count: 2
+├─ size: 10 KiB [for all included files]
+├─ type: [transitive]
+│  └─ bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/mongodb/node_modules/bl/
+│  
+├─ files: 
+│  └─ ./node_modules/mongodb/node_modules/bl/bl.js
+│  
+└─ reasons:
+   └─ mongodb
+      └─ ./node_modules/mongodb/lib/cmap/message_stream.js  4:19-32  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  isarray
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ isarray -> readable-stream -> bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/isarray/
+│  
+├─ files: 
+│  └─ ./node_modules/isarray/index.js
+│  
+└─ reasons:
+   └─ readable-stream
+      └─ ./node_modules/readable-stream/lib/_stream_readable.js  32:14-32  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  util-deprecate
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ util-deprecate -> readable-stream -> bl -> mongodb
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/util-deprecate/
+│  
+├─ files: 
+│  └─ ./node_modules/util-deprecate/node.js
+│  
+└─ reasons:
+   └─ readable-stream
+      └─ ./node_modules/readable-stream/lib/_stream_writable.js  73:13-38  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @bugsnag/node
+├─ imported: 1 time
+├─ deps count: 5
+├─ size: 75 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@bugsnag/node/
+│  
+├─ files: 
+│  └─ ./node_modules/@bugsnag/node/dist/bugsnag.js
+│  
+└─ reasons:
+   └─ @bugsnag/js
+      └─ ./node_modules/@bugsnag/js/node/notifier.js  1:17-41  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  error-stack-parser
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 9 KiB [for all included files]
+├─ type: [transitive]
+│  └─ error-stack-parser -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/error-stack-parser/
+│  
+├─ files: 
+│  └─ ./node_modules/error-stack-parser/error-stack-parser.js
+│  
+└─ reasons:
+   └─ @bugsnag/node
+      └─ ./node_modules/@bugsnag/node/dist/bugsnag.js  358:28-57  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  iserror
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ iserror -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/iserror/
+│  
+├─ files: 
+│  └─ ./node_modules/iserror/index.js
+│  
+└─ reasons:
+   └─ @bugsnag/node
+      └─ ./node_modules/@bugsnag/node/dist/bugsnag.js  390:19-37  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  stack-generator
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ stack-generator -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/stack-generator/
+│  
+├─ files: 
+│  └─ ./node_modules/stack-generator/stack-generator.js
+│  
+└─ reasons:
+   └─ @bugsnag/node
+      └─ ./node_modules/@bugsnag/node/dist/bugsnag.js  450:21-47  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  pump
+├─ imported: 1 time
+├─ deps count: 2
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ pump -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/pump/
+│  
+├─ files: 
+│  └─ ./node_modules/pump/index.js
+│  
+└─ reasons:
+   └─ @bugsnag/node
+      └─ ./node_modules/@bugsnag/node/dist/bugsnag.js  1973:11-26  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  wrappy
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  ├─ wrappy -> once -> pump -> @bugsnag/node -> @bugsnag/js
+│  └─ wrappy -> once -> end-of-stream -> pump -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/wrappy/
+│  
+├─ files: 
+│  └─ ./node_modules/wrappy/wrappy.js
+│  
+└─ reasons:
+   └─ once
+      └─ ./node_modules/once/once.js  1:13-30  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  end-of-stream
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ end-of-stream -> pump -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/end-of-stream/
+│  
+├─ files: 
+│  └─ ./node_modules/end-of-stream/index.js
+│  
+└─ reasons:
+   └─ pump
+      └─ ./node_modules/pump/index.js  2:10-34  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  byline
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 5 KiB [for all included files]
+├─ type: [transitive]
+│  └─ byline -> @bugsnag/node -> @bugsnag/js
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/byline/
+│  
+├─ files: 
+│  └─ ./node_modules/byline/lib/byline.js
+│  
+└─ reasons:
+   └─ @bugsnag/node
+      └─ ./node_modules/@bugsnag/node/dist/bugsnag.js  1975:13-30  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  external "timers"
+├─ imported: 1 time
+├─ size: 1 KiB
+├─ chunks: src/handlers/graphql/handler
+└─ reasons:
+   └─ ./node_modules/byline/lib/byline.js
+   
+––––––––––––––––––––
+
+
+ MODULE  buffer-equal-constant-time
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ buffer-equal-constant-time -> jwa -> jws -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/buffer-equal-constant-time/
+│  
+├─ files: 
+│  └─ ./node_modules/buffer-equal-constant-time/index.js
+│  
+└─ reasons:
+   └─ jwa
+      └─ ./node_modules/jwa/index.js  1:18-55  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  ecdsa-sig-formatter
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ ecdsa-sig-formatter -> jwa -> jws -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/ecdsa-sig-formatter/
+│  
+├─ files: 
+│  ├─ ./node_modules/ecdsa-sig-formatter/src/ecdsa-sig-formatter.js
+│  └─ ./node_modules/ecdsa-sig-formatter/src/param-bytes-for-alg.js
+│  
+└─ reasons:
+   └─ jwa
+      └─ ./node_modules/jwa/index.js  4:18-48  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.includes
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 19 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.includes -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.includes/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.includes/index.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  4:15-41  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.isboolean
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.isboolean -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.isboolean/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.isboolean/index.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  5:16-43  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.isinteger
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.isinteger -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.isinteger/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.isinteger/index.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  6:16-43  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.isnumber
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.isnumber -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.isnumber/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.isnumber/index.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  7:15-41  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.isplainobject
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 4 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.isplainobject -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.isplainobject/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.isplainobject/index.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  8:20-51  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.isstring
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.isstring -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.isstring/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.isstring/index.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  9:15-41  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  lodash.once
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 7 KiB [for all included files]
+├─ type: [transitive]
+│  └─ lodash.once -> jsonwebtoken
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/lodash.once/
+│  
+├─ files: 
+│  └─ ./node_modules/lodash.once/index.js
+│  
+└─ reasons:
+   └─ jsonwebtoken
+      └─ ./node_modules/jsonwebtoken/sign.js  10:11-33  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @otplib/preset-default
+├─ imported: 1 time
+├─ deps count: 3
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @otplib/preset-default -> otplib
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@otplib/preset-default/
+│  
+├─ files: 
+│  └─ ./node_modules/@otplib/preset-default/index.js
+│  
+└─ reasons:
+   └─ otplib
+      └─ ./node_modules/otplib/index.js  12:20-53  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @otplib/plugin-crypto
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @otplib/plugin-crypto -> @otplib/preset-default -> otplib
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@otplib/plugin-crypto/
+│  
+├─ files: 
+│  └─ ./node_modules/@otplib/plugin-crypto/index.js
+│  
+└─ reasons:
+   └─ @otplib/preset-default
+      └─ ./node_modules/@otplib/preset-default/index.js  12:19-51  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @otplib/plugin-thirty-two
+├─ imported: 1 time
+├─ deps count: 1
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @otplib/plugin-thirty-two -> @otplib/preset-default -> otplib
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@otplib/plugin-thirty-two/
+│  
+├─ files: 
+│  └─ ./node_modules/@otplib/plugin-thirty-two/index.js
+│  
+└─ reasons:
+   └─ @otplib/preset-default
+      └─ ./node_modules/@otplib/preset-default/index.js  13:22-58  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  thirty-two
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ thirty-two -> @otplib/plugin-thirty-two -> @otplib/preset-default -> otplib
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/thirty-two/
+│  
+├─ files: 
+│  ├─ ./node_modules/thirty-two/lib/thirty-two/index.js
+│  └─ ./node_modules/thirty-two/lib/thirty-two/thirty-two.js
+│  
+└─ reasons:
+   └─ @otplib/plugin-thirty-two
+      └─ ./node_modules/@otplib/plugin-thirty-two/index.js  14:32-53  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  @otplib/core
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 16 KiB [for all included files]
+├─ type: [transitive]
+│  └─ @otplib/core -> @otplib/preset-default -> otplib
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/@otplib/core/
+│  
+├─ files: 
+│  └─ ./node_modules/@otplib/core/index.js
+│  
+└─ reasons:
+   └─ @otplib/preset-default
+      └─ ./node_modules/@otplib/preset-default/index.js  14:11-34  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  has-flag
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ has-flag -> supports-color -> debug -> follow-redirects -> axios
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/supports-color/node_modules/has-flag/
+│  
+├─ files: 
+│  └─ ./node_modules/supports-color/node_modules/has-flag/index.js
+│  
+└─ reasons:
+   └─ supports-color
+      └─ ./node_modules/supports-color/index.js  3:16-35  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  tiny-lru
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ tiny-lru -> maxmind
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/tiny-lru/
+│  
+├─ files: 
+│  └─ ./node_modules/tiny-lru/lib/tiny-lru.esm.js
+│  
+└─ reasons:
+   └─ maxmind
+      └─ ./node_modules/maxmind/lib/decoder.js  7:35-54  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  weak-map
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 26 KiB [for all included files]
+├─ type: [transitive]
+│  └─ weak-map -> q -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/weak-map/
+│  
+├─ files: 
+│  └─ ./node_modules/weak-map/weak-map.js
+│  
+└─ reasons:
+   └─ q
+      └─ ./node_modules/q/q.js  43:14-33  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  asap
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 6 KiB [for all included files]
+├─ type: [transitive]
+│  └─ asap -> q -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/asap/
+│  
+├─ files: 
+│  ├─ ./node_modules/asap/asap.js
+│  └─ ./node_modules/asap/raw.js
+│  
+└─ reasons:
+   └─ q
+      └─ ./node_modules/q/q.js  45:11-26  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  scmp
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 2 KiB [for all included files]
+├─ type: [transitive]
+│  └─ scmp -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/scmp/
+│  
+├─ files: 
+│  ├─ ./node_modules/scmp/index.js
+│  └─ ./node_modules/scmp/lib/scmpCompare.js
+│  
+└─ reasons:
+   └─ twilio
+      └─ ./node_modules/twilio/lib/webhooks/webhooks.js  5:11-26  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  url-parse
+├─ imported: 1 time
+├─ deps count: 2
+├─ size: 13 KiB [for all included files]
+├─ type: [transitive]
+│  └─ url-parse -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/url-parse/
+│  
+├─ files: 
+│  └─ ./node_modules/url-parse/index.js
+│  
+└─ reasons:
+   └─ twilio
+      └─ ./node_modules/twilio/lib/webhooks/webhooks.js  7:10-30  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  requires-port
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 1 KiB [for all included files]
+├─ type: [transitive]
+│  └─ requires-port -> url-parse -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/requires-port/
+│  
+├─ files: 
+│  └─ ./node_modules/requires-port/index.js
+│  
+└─ reasons:
+   └─ url-parse
+      └─ ./node_modules/url-parse/index.js  3:15-39  [cjs require]
+   
+––––––––––––––––––––
+
+
+ MODULE  querystringify
+├─ imported: 1 time
+├─ deps count: 0
+├─ size: 3 KiB [for all included files]
+├─ type: [transitive]
+│  └─ querystringify -> url-parse -> twilio
+│  
+├─ chunks: src/handlers/graphql/handler
+├─ locations: 
+│  └─ ./node_modules/querystringify/
+│  
+├─ files: 
+│  └─ ./node_modules/querystringify/index.js
+│  
+└─ reasons:
+   └─ url-parse
+      └─ ./node_modules/url-parse/index.js  4:9-34  [cjs require]
+   
+––––––––––––––––––––
+
+
+ FILE  ./services/graphql-api/src/handlers/graphql/handler.js + 100 modules [entry]
+├─ imported: 1 time
+├─ size: 375 KiB
+└─ chunks: src/handlers/graphql/handler
+––––––––––––––––––––
+
+🏁  Done in 0.38s.
